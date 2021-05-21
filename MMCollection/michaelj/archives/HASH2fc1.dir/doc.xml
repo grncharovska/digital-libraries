@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\TWljaGFlbCBKYWNrc29uIC0gRWFydGggU29uZyAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">6474285</Metadata>
+    <Metadata name="Source">Michael Jackson - Earth Song (Official Video).mp3</Metadata>
+    <Metadata name="SourceFile">TWljaGFlbCBKYWNrc29uIC0gRWFydGggU29uZyAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="mp3">Michael Jackson - Earth Song (Official Video)</Metadata>
+    <Metadata name="srcurl">TWljaGFlbCBKYWNrc29uIC0gRWFydGggU29uZyAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">TWljaGFlbCBKYWNrc29uIC0gRWFydGggU29uZyAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="srclinkFile">TWljaGFlbCBKYWNrc29uIC0gRWFydGggU29uZyAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Michael Jackson - Earth Song (Official Video)</Metadata>
+    <Metadata name="Identifier">HASH2fc1759b72870d756e8edb</Metadata>
+    <Metadata name="lastmodified">1589141159</Metadata>
+    <Metadata name="lastmodifieddate">20200510</Metadata>
+    <Metadata name="oailastmodified">1589141304</Metadata>
+    <Metadata name="oailastmodifieddate">20200510</Metadata>
+    <Metadata name="assocfilepath">HASH2fc1.dir</Metadata>
+    <Metadata name="gsdlassocfile">TWljaGFlbCBKYWNrc29uIC0gRWFydGggU29uZyAoT2ZmaWNpYWwgVmlkZW8p.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

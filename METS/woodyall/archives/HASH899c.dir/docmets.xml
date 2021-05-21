@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:gsdl3="http://www.greenstone.org/namespace/gsdlmetadata/1.0/"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xsi:schemaLocation="http://www.loc.gov/METS/
+           http://www.loc.gov/standards/mets/mets.xsd
+           http://www.greenstone.org/namespace/gsdlmetadata/1.0/
+           http://www.greenstone.org/namespace/gsdlmetadata/1.0/gsdl_metadata.xsd"
+  OBJID="HASH899c9b676406370f1de322:2">
+<mets:dmdSec ID="DM1" GROUPID="1">
+  <mets:mdWrap  MDTYPE="OTHER" OTHERMDTYPE="gsdl3" ID="gsdl1">
+    <mets:xmlData>
+      <gsdl3:Metadata name="gsdlsourcefilename">import\Woody Allen memoir published in US after protest stops first attempt _ Woody Allen _ The Guardian.html</gsdl3:Metadata>
+      <gsdl3:Metadata name="gsdldoctype">indexed_doc</gsdl3:Metadata>
+      <gsdl3:Metadata name="Plugin">HTMLPlugin</gsdl3:Metadata>
+      <gsdl3:Metadata name="FileSize">158062</gsdl3:Metadata>
+      <gsdl3:Metadata name="Source">Woody Allen memoir published in US after protest stops first attempt _ Woody Allen _ The Guardian.html</gsdl3:Metadata>
+      <gsdl3:Metadata name="SourceFile">Woody Allen memoir published in US after protest stops first attempt _ Woody Allen _ The Guardian.html</gsdl3:Metadata>
+      <gsdl3:Metadata name="Language">en</gsdl3:Metadata>
+      <gsdl3:Metadata name="Encoding">utf8</gsdl3:Metadata>
+      <gsdl3:Metadata name="Title">Woody Allen memoir published in US after protest stops first attempt | Woody Allen | The Guardian</gsdl3:Metadata>
+      <gsdl3:Metadata name="FileFormat">HTML</gsdl3:Metadata>
+      <gsdl3:Metadata name="URL">http://Woody Allen memoir published in US after protest stops first attempt _ Woody Allen _ The Guardian.html</gsdl3:Metadata>
+      <gsdl3:Metadata name="UTF8URL">http://Woody Allen memoir published in US after protest stops first attempt _ Woody Allen _ The Guardian.html</gsdl3:Metadata>
+      <gsdl3:Metadata name="Identifier">HASH899c9b676406370f1de322</gsdl3:Metadata>
+      <gsdl3:Metadata name="lastmodified">1587067072</gsdl3:Metadata>
+      <gsdl3:Metadata name="lastmodifieddate">20200416</gsdl3:Metadata>
+      <gsdl3:Metadata name="oailastmodified">1590579477</gsdl3:Metadata>
+      <gsdl3:Metadata name="oailastmodifieddate">20200527</gsdl3:Metadata>
+      <gsdl3:Metadata name="assocfilepath">HASH899c.dir</gsdl3:Metadata>
+    </mets:xmlData>
+  </mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+  <mets:fileGrp ID="FILEGROUP_PRELUDE1">
+    <mets:file MIMETYPE="text/xml" ID="FILE1"  >
+      <mets:FLocat LOCTYPE="URL" xlink:href="file:doctxt.xml#xpointer(/Section[1]/text())" xlink:title="Hierarchical Document Structure"/>
+    </mets:file>
+  </mets:fileGrp>
+  <mets:fileGrp ID="default">
+    <mets:file MIMETYPE="text/xml" ID="default.1"  >
+      <mets:FLocat LOCTYPE="URL" xlink:href="file:import\Woody Allen memoir published in US after protest stops first attempt _ Woody Allen _ The Guardian.html" />
+    </mets:file>
+  </mets:fileGrp>
+</mets:fileSec>
+<mets:structMap ID="Section" TYPE="Section" LABEL="Section">
+  <mets:div ID="DS1" TYPE="Section" 
+      ORDER="0" ORDERLABEL="1" 
+      LABEL="1" DMDID="DM1">
+    <mets:fptr FILEID="FILEGROUP_PRELUDE1" />
+  </mets:div>
+</mets:structMap>
+<mets:structMap ID="All" TYPE="Whole Document" LABEL="All">
+  <mets:div ID="DSAll" TYPE="Document" ORDER="0" ORDERLABEL="All" LABEL="Whole Documemt" DMDID="DM1">
+    <mets:fptr FILEID="default.1" />
+  </mets:div>
+</mets:structMap>
+</mets:mets>

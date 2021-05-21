@@ -1,0 +1,21 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file C:\Users\Marija's PC\Greenstone3\web\sites\localsite\collect\leapmoti\tmp\1588350191\161273LeapMotion.html is being processed by HTMLPlugin.
+The file C:\Users\Marija's PC\Greenstone3\web\sites\localsite\collect\leapmoti\tmp\1588350194\Leap_Motion_Controller_Datasheet.html is being processed by HTMLPlugin.
+The file C:\Users\Marija's PC\Greenstone3\web\sites\localsite\collect\leapmoti\tmp\1588350196\Psihologija.html is being processed by HTMLPlugin.
+The file C:\Users\Marija's PC\Greenstone3\web\sites\localsite\collect\leapmoti\tmp\1588350197\VR.text is being processed by TextPlugin.
+The file VTechnology.txt is being processed by TextPlugin.
+The file C:\Users\Marija's PC\Greenstone3\web\sites\localsite\collect\leapmoti\tmp\1588350199\VirtualR.html is being processed by HTMLPlugin.
+The file C:\Users\Marija's PC\Greenstone3\web\sites\localsite\collect\leapmoti\tmp\1588350200\sensors-15-00214.html is being processed by HTMLPlugin.
+The file C:\Users\Marija's PC\Greenstone3\web\sites\localsite\collect\leapmoti\tmp\1588350215\virtuelna_realnost.html is being processed by HTMLPlugin.
+************** Import Finished **************
+8 documents were considered for processing:
+    8 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;dc.Date;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;dc.Date;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

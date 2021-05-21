@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Smooth Criminal LIVE.mp4</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">UnknownPlugin</Metadata>
+    <Metadata name="FileSize">9322150</Metadata>
+    <Metadata name="Source">Smooth Criminal LIVE.mp4</Metadata>
+    <Metadata name="SourceFile">Smooth Criminal LIVE.mp4</Metadata>
+    <Metadata name="FileFormat">unknown</Metadata>
+    <Metadata name="MimeType">unknown/unknown</Metadata>
+    <Metadata name="unknown_file">Smooth Criminal LIVE.mp4</Metadata>
+    <Metadata name="srclink_file">Smooth Criminal LIVE.mp4</Metadata>
+    <Metadata name="srclinkFile">Smooth Criminal LIVE.mp4</Metadata>
+    <Metadata name="srcicon">_iconunknown_</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Smooth Criminal LIVE</Metadata>
+    <Metadata name="Identifier">HASH0184f924e22802a5abd9417a</Metadata>
+    <Metadata name="lastmodified">1589141151</Metadata>
+    <Metadata name="lastmodifieddate">20200510</Metadata>
+    <Metadata name="oailastmodified">1589141306</Metadata>
+    <Metadata name="oailastmodifieddate">20200510</Metadata>
+    <Metadata name="assocfilepath">HASH0184.dir</Metadata>
+    <Metadata name="gsdlassocfile">Smooth Criminal LIVE.mp4:unknown/unknown:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

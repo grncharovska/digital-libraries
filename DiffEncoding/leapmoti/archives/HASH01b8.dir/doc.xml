@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/Marija's PC/Greenstone3/web/sites/localsite/collect/leapmoti/tmp/1588351053/virtuelna_realnost.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Marija's PC/Greenstone3/web/sites/localsite/collect/leapmoti/tmp/1588351053/virtuelna_realnost.html</Metadata>
+    <Metadata name="Title">virtuelna_realnost</Metadata>
+    <Metadata name="gsdlsourcefilename">import\virtuelna_realnost.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1588351053\virtuelna_realnost.html</Metadata>
+    <Metadata name="OrigSource">virtuelna_realnost.html</Metadata>
+    <Metadata name="Source">virtuelna_realnost.pdf</Metadata>
+    <Metadata name="SourceFile">virtuelna_realnost.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">88252</Metadata>
+    <Metadata name="FilenameRoot">virtuelna_realnost</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Date">20180208</Metadata>
+    <Metadata name="Identifier">HASH01b8ec45b1bda392804d3964</Metadata>
+    <Metadata name="lastmodified">1588349639</Metadata>
+    <Metadata name="lastmodifieddate">20200501</Metadata>
+    <Metadata name="oailastmodified">1588351055</Metadata>
+    <Metadata name="oailastmodifieddate">20200501</Metadata>
+    <Metadata name="assocfilepath">HASH01b8.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page2.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page3.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+&lt;div id=&quot;page1&quot;&gt;
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 842px; width: 594px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f84 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p1f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f145 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f146 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f147 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f148 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f149 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f150 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f151 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f152 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f153 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f154 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f155 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f156 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f157 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f158 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f159 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f160 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f161 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f162 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f163 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f164 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f165 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f166 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f167 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f168 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f169 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f170 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f171 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f172 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f173 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f174 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f175 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;842&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;594&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:75px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;1. &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Наслов на наставниот предмет&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:276px; top:72px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Виртуелна реалност&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:276px; top:95px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Virtual reality&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:123px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2. &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Код&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:276px; top:123px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;F18L3S083&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:151px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;3. &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Студиска програма&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:276px; top:151px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Софтверско инженерство и информациски&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:273px; top:165px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;системи, Компјутерски науки, Компјутерско&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:273px; top:179px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;инженерство, Компјутерска едукација&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:207px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;4. &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Организатор на студискатаФакултет за информатички науки и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:221px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;програма (единица, односнокомпјутерско инженерство&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:234px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;институт, катедра, оддел)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:249px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;5. &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Степен (прв, втор, трет циклус) прв циклус&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:277px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;6. &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Академска година / семестар 7. Број на ЕКТС кредити&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:101px; top:291px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;4 / летен / изборен&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:276px; top:291px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;6&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:319px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;8. &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Наставник&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:276px; top:319px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;проф. д&lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;р Сузана Лошковска&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:347px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;9. &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Предуслови за запишување на Дизајн на интеракцијата човек&lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;компјутер&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:361px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;предметот&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:375px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;10. &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Цели на предметната програма (компетенции):&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:101px; top:389px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Предметот треба да овозможи запознавање на студентите со концептот на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:402px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;виртуелна реалност, различните видови виртуелни околини, влезно&lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;излезните&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:416px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;уреди, како и основни програмерски техники за дизајнирање и развој на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:430px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;виртуелни околини. По завршување на курсот се очекува студентот да го разбира&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:444px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;концептот на виртуелната реалност, да биде во можност да ги опише&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:458px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;карактеристиките на различните видови виртуелни околини и да има основни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:471px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;познавања за дизајнирање и развој на виртуелни светови.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:500px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;11. &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Содржина на предметната програма&lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:101px; top:513px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Вовед. Терминологија. Примери. Влезни уреди. Видови влезни уреди. Уреди за&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:527px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;следење на позиција на глава. Уреди за следење на рака. Платформи. Уреди за&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:541px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;следење на светот. Критериуми за евалуација на уредите за следење. Излезни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:555px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;уреди. видови. Видео излезни уреди. Просторно гледање. Техники за 3Д поглед.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:569px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Видови уреди. Аудио уреди. Добивање на 3Д звук. Стационарни и нестационарни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:582px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;уреди. Влезно&lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;излезни уреди. Тактилни уреди. Форми на тактилна перцепција.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:596px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Карактеристики. Уреди на допир. Влезно&lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;излезни уреди. Излезни уреди за&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:610px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;другите сетила. Мирис. Вкус. Репрезентација на виртуелен свет. Видови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:624px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;репрезентација. Користење на поедноставени симболи. Реалистичност и степени&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:638px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на реалистичност. Техники за репрезентација на видео, аудио и тектилни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:651px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;сигнали.Рендерирање на виртуелни светови. Површинско и волуменско&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:665px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;рендерирање на видео информации. Рендерирање на комплексни сцени и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:679px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;оптимизација на ресурси. Граф на сцена. Рендерирање на аудио и тактилни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:693px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;сигнали. Интеракција со корисникот. Манипулација со објекти во виртуелниот&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:707px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;свет. Методи за манипулација. Техники за селекција на објекти. Задавње на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:720px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;команди во виртуелниот свет. Навигација во виртуелен свет. Одредување на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:734px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;патеки. Помош при одредување на патеки. Патување во виртуелен свет. Начини&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:748px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на патување во виртуелен свет. Постигнување чувство на присуство.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;page2&quot;&gt;
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 2</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 842px; width: 594px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f145 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f146 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f147 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f148 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f149 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f150 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f151 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f152 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f153 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f154 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f155 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f156 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f157 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f158 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f159 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f160 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f161 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f162 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f163 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f164 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f165 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f166 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f167 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f168 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f169 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f170 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f171 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f172 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f173 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f174 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f175 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f176 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f177 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f178 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f179 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f180 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f181 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f182 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f183 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f184 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f185 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f186 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f187 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f188 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f189 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f190 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f191 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f192 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f193 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f194 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f195 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f196 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f197 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f198 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f199 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f200 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f201 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f202 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f203 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f204 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f205 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f206 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f207 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f208 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f209 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f210 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f211 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f212 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f213 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f214 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f215 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f216 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f217 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f218 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f219 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f220 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f221 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f222 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f223 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f224 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f225 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f226 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f227 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f228 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f229 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f230 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f231 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f232 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f233 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f234 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f235 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f236 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f237 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f238 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f239 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f240 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f241 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f242 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f243 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f244 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f245 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f246 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f247 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f248 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f249 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f250 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f251 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f252 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f253 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f254 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f255 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f256 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f257 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f258 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f259 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f260 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f261 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f262 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f263 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f264 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f265 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f266 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f267 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f268 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f269 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f270 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f271 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f272 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f273 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f274 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;842&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;594&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:114px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;12. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Методи на учење:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:101px; top:128px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Предавања со користење на презентации, интерактивни предавања, вежби&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:142px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;(користење на опрема и софтверски пакети), тимска работа, пример случаи,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:155px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;поканети гости предавачи, самостојна изработка и одбрана на проектна задача и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:169px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;семинарска работа.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:197px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;13. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Вкупен расположив фонд на време&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:312px; top:197px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;6 ЕКТС x 30 часа = 180 часа&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:225px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;14. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Распределба на расположивото време 30 + 45 + 15 + 15 + 75 = 180 часа&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:254px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;15. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Форми на наставните активности &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;15.1. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Предавања&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;- &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;теоретска 30 часови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:301px; top:267px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;настава&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:273px; top:282px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;15.2. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Вежби (лабораториски, 45 часови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:301px; top:295px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;аудиториски), семинари,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:301px; top:309px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;тимска работа&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:324px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;16. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Други форми на активности&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:273px; top:324px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;16.1. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Проектни задачи&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:434px; top:324px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;15 часови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:273px; top:352px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;16.2. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Самостојни задачи&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:434px; top:352px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;15 часови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:273px; top:380px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;16.3. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Домашно учење&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:434px; top:380px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;75 часови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:408px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;17. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Начин на оценување&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:422px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;17.1. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Тестови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:409px; top:422px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;0 бодови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:450px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;17.2. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Семинарска работа/ проект ( презентација: писмена и 40 бодови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:125px; top:464px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;усна)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:478px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;17.3. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Активности и учење&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:409px; top:478px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;10 бодови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:507px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;17.4. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Завршен испит&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:409px; top:507px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;50 бодови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:535px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;18. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Критериуми за оценување (бодови/до 50 бода&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:406px; top:535px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;5 (пет) (&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;F)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:548px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;оценка)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:290px; top:549px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;од 51 до 60 бода&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:406px; top:549px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;6 (шест) (&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;E)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:290px; top:563px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;од 61 до 70 бода&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:406px; top:563px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;7 (седум) (&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;D)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:290px; top:577px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;од 71 до 80 бода&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:406px; top:577px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;8 (осум) (&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;C)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:290px; top:592px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;од 81 до 90 бода&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:406px; top:592px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;9 (девет) (&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;B)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:290px; top:606px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;од 91 до 100 бода 10 (десет) (&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;A)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:620px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;19. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Услов за потпис и полагање на Реализирани активности 15.2&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:634px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;завршен испит&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:649px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;20. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Јазик на кој се изведува наставата македонски и англиски&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:677px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;21. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Метод на следење на квалитетот на механизам на интерна евалуација и анкети&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:690px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;наставата&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:705px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;22. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Литература&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:721px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;22.1. &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Задолжителна литература&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;page3&quot;&gt;
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 3</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 842px; width: 594px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p3f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f145 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f146 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f147 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f148 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f149 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f150 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f151 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f152 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;842&quot; id=&quot;background3&quot; src=&quot;_httpdocimg_/page3.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;594&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:98px; top:393px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;22.2.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:138px; top:74px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Ред.бр.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:138px; top:89px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;1&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:185px; top:75px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Автор&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:185px; top:89px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;William R.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:185px; top:103px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Sherman &amp;amp;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:185px; top:116px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Alan B. Craig&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:138px; top:158px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:185px; top:158px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Jason Jerald&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:138px; top:255px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;3&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:185px; top:255px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Steve&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:185px; top:269px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Aukstakalnis&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:133px; top:393px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Дополнителна литература&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:133px; top:409px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Ред. број Автор&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:75px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Наслов&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:89px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Understanding&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:103px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Virtual Reality:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:116px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Interface,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:130px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Application, and&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:144px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Design&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:158px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The VR Book:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:172px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Human-&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:186px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Centered Design&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:199px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;for&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:324px; top:199px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Virtual&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:213px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Reality&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:255px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Practical&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:269px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Augmented&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:282px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Reality:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:350px; top:282px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;A&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:296px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Guide to the&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:310px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Technologies,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:324px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Applications,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:337px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;and Human&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:351px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Factors for AR&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:365px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;and&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:342px; top:365px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;VR&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:379px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;(Usability)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:299px; top:409px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Наслов&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:75px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Издавач&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:89px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Morgan&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:103px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Kaufmann&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:439px; top:75px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Година&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:439px; top:89px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2003&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:158px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Association&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:172px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;for&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:186px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Computing&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:199px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Machinery&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:213px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;and Morgan&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:227px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;amp; Claypool&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:241px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Publishers&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:255px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Addison-&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:269px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Wesley&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:369px; top:282px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Professional&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:439px; top:158px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2016&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:439px; top:255px;&quot;&gt;&lt;span class=&quot;p3f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2016&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:408px; top:409px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Издавач Година&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

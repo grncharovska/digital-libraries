@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>161273LeapMotion\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">20190104</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Leap_Motion_Controller_Datasheet\.doc</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">20140501</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Psihologija\.doc</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">20180204</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>sensors-15-00214\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">20160505</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>VirtualR\.doc</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">20190606</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>virtuelna_realnost\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">20180208</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>VR\.ps</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">20170101</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>VTechnology\.txt</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">20200302</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

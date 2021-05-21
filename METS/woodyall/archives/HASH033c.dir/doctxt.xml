@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Section SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Section>
+
+
+
+
+
+
+
+&lt;script  id=&quot;json-navbar-info&quot;  type=&quot;application/json&quot;&gt;
+{&quot;browseTitles&quot;:[&quot;Categories&quot;,&quot;Features&quot;],&quot;topLinks&quot;:[{&quot;title&quot;:&quot;Biographies&quot;,&quot;url&quot;:&quot;/biographies&quot;},{&quot;title&quot;:&quot;On This Day&quot;,&quot;url&quot;:&quot;/on-this-day&quot;},{&quot;title&quot;:&quot;Quizzes&quot;,&quot;url&quot;:&quot;/quiz/browse&quot;}],&quot;categoryLinks&quot;:[{&quot;id&quot;:1000,&quot;title&quot;:&quot;Science&quot;,&quot;url&quot;:&quot;/browse/Science&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Science&quot;,&quot;description&quot;:&quot;From prehistoric times onward, human beings have been curious about the world around them and about worlds far away and out of eyesight. What are the laws that govern the universe? What makes our planet the way it is, regarding everything from the humble atom to the largest landmasses and the encompassing atmosphere of Earth? Why does life develop one way instead of another? How has scientific research and technology improved human life and understanding over the centuries? Explore, search, and satisfy your curiosity on these and any number of other topics within the vast realm of science.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg&quot;},{&quot;id&quot;:2000,&quot;title&quot;:&quot;Technology&quot;,&quot;url&quot;:&quot;/browse/Technology&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Technology&quot;,&quot;description&quot;:&quot;Humankind has long striven to improve its living conditions through the development of tools, instruments, and transportation and communications systems, all with the goal of making our lives easier, more productive and—why not—more fun, too! Thanks to human curiosity and technological research, many significant inventions have been made throughout history that in turn made a difference in our daily lives.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/84/203584-131-357FBE7D/speed-internet-technology-background.jpg&quot;},{&quot;id&quot;:3000,&quot;title&quot;:&quot;Health &amp; Medicine&quot;,&quot;url&quot;:&quot;/browse/Health-Medicine&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Health-Medicine&quot;,&quot;description&quot;:&quot;The study of the human mind and body, how these function, and how they interact—not only with each other but also with their environment—has been of utmost importance in ensuring human well-being. Research on potential treatments and preventive medicine has expanded greatly with the development of modern medicine, and a network of disciplines, including such fields as genetics, psychology, and nutrition, aims to facilitate the betterment of our health.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg&quot;},{&quot;id&quot;:4000,&quot;title&quot;:&quot;Sports &amp; Recreation&quot;,&quot;url&quot;:&quot;/browse/Sports-Recreation&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Sports-Recreation&quot;,&quot;description&quot;:&quot;Physical contests, athletic achievements, and recreational games have long played a part in human society. In both team and solo sports, the human body has been pushed to its limits to improve its performance and to break record upon record. The ancient Olympic Games are an early example of the contests in which humans have engaged to showcase physical prowess. In modern times, sports and games have evolved into a lucrative competitive industry, while other leisure activities, such as card and video games, can be competitive or just a way to unwind or socialize.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/13/170713-131-8D6B0AF7.jpg&quot;},{&quot;id&quot;:5000,&quot;title&quot;:&quot;Geography &amp; Travel&quot;,&quot;url&quot;:&quot;/browse/Geography-Travel&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Geography-Travel&quot;,&quot;description&quot;:&quot;Planet Earth contains some extraordinarily diverse environments, some of which are easily habitable and some not so much. In different areas of Earth, one might find sweltering deserts, dense tropical rainforests, or bone-chilling tundras. Each biome and habitat comes with its own selection of flora and fauna, and it may include physical features such as canyons, volcanoes, rivers, or caves. Human beings have built homes in many different environments, settling the area and organizing it into units such as cities, states, regions, and countries, each with its own points of interest. Shifting trends in human migration have resulted in a human geography that is profoundly different from that of centuries ago.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/17/2317-050-758D0E55/World-map-descriptions-Herodotus-Black-Sea.jpg&quot;},{&quot;id&quot;:6000,&quot;title&quot;:&quot;World History&quot;,&quot;url&quot;:&quot;/browse/World-History&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/World-History&quot;,&quot;description&quot;:&quot;Does history really repeat itself, or can we learn from the mistakes of those who came before us? History provides a chronological, statistical, and cultural record of the events, people, and movements that have made an impact on humankind and the world at large throughout the ages. Investigating the causes and results of past events is critically important in gaining a full understanding and perspective of present-day issues.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/05/84505-050-8BB58BE6/cave-art-Ennedi-Plateau-Chad.jpg&quot;},{&quot;id&quot;:7000,&quot;title&quot;:&quot;Philosophy &amp; Religion&quot;,&quot;url&quot;:&quot;/browse/Philosophy-Religion&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Philosophy-Religion&quot;,&quot;description&quot;:&quot;Humans have long pondered not only how we came to be, but also why we came to be. The earliest Greek philosophers focused their attention upon the origin and nature of the physical world; later philosophers have theorized about the nature of knowledge, truth, good and evil, love, friendship, and much more. Thus, philosophy involves a methodical assessment of any and all aspects of human existence and experience. The realms of philosophy and religion have sometimes intersected in conducting inquiries such as these. As with philosophy, the study of religion underscores how humankind has long speculated about its origins. The possibility of a higher being (or beings) to which livings things owe their existence has long captived human thought. Many religions also offer their own views on the nature of good and evil, and they may prescribe guidelines and judgment on different kinds of human behavior.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/95/180595-050-EDF2CA3A.jpg&quot;},{&quot;id&quot;:8000,&quot;title&quot;:&quot;Lifestyles &amp; Social Issues&quot;,&quot;url&quot;:&quot;/browse/Lifestyles-Social-Issues&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Lifestyles-Social-Issues&quot;,&quot;description&quot;:&quot;It's easy enough to agree that human beings all around the world have certain basic requirements that must be fulfilled in order to ensure their individual and collective well-being. History has shown us, however, that it's not so easy to form societies or communities that fulfill these requirements for all members. The fight over human and civil rights has persisted for hundreds of years and remains alive today, both within the borders of nations and on an international scale. It has led to large-scale social movements and reforms concerning issues such as suffrage, slavery, women's rights, racial discrimination, environmentalism, gay rights, and more.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg&quot;},{&quot;id&quot;:9000,&quot;title&quot;:&quot;Politics, Law &amp; Government&quot;,&quot;url&quot;:&quot;/browse/Politics-Law-Government&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Politics-Law-Government&quot;,&quot;description&quot;:&quot;The world today is divided territorially into more than 190 countries, each of which possesses a national government that claims to exercise sovereignty and seeks to compel obedience to its will by its citizens. Governments can be classified in any number of ways. For example, they might be classified by the number of rulers, thus distinguishing government by one (as in a monarchy or a tyranny) from government by the few (in an aristocracy or oligarchy) and from government by the many (as in a democracy). Governments can also be classified by mode of succession; for example, ascension to governmental leadership may follow the rules of hereditary succession, or it may be determined through elections or by force. Governments also vary in terms of the laws and rules of conduct that each political entity follows.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/22/99622-050-E70BCD0A/Parthenon-Athens.jpg&quot;},{&quot;id&quot;:10000,&quot;title&quot;:&quot;Entertainment &amp; Pop Culture&quot;,&quot;url&quot;:&quot;/browse/Entertainment-Pop-Culture&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Entertainment-Pop-Culture&quot;,&quot;description&quot;:&quot;Entertainment and leisure activities have been a part of all cultures in one form or another since the ancient times, whether the activity in question involved participating in a dance performance, attending a Broadway show, going to a music festival, or watching a movie.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/04/167104-050-A0D0F726.jpg&quot;},{&quot;id&quot;:11000,&quot;title&quot;:&quot;Visual Arts&quot;,&quot;url&quot;:&quot;/browse/Visual-Arts&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Visual-Arts&quot;,&quot;description&quot;:&quot;These are the arts that meet the eye and evoke an emotion through an expression of skill and imagination. They include the most ancient forms, such as painting and drawing, and the arts that were born thanks to the development of technology, like sculpture, printmaking, photography, and installation art, the latter a combination of multiple creative expressions. Though beauty is in the eye of the beholder, different eras in art history have had their own principles to define beauty, from the richly ornamented taste of the Baroque to the simple, utilitarian style of the Prairie School.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/45/24345-050-78FAA104.jpg&quot;},{&quot;id&quot;:12000,&quot;title&quot;:&quot;Literature&quot;,&quot;url&quot;:&quot;/browse/Literature&quot;,&quot;videoChannelUrl&quot;:&quot;/videos/Literature&quot;,&quot;description&quot;:&quot;With the development of language, the human imagination has found a way to create and communicate through the written word. A literary work can transport us into a fictional, fantastic new world, describe a fleeting feeling, or simply give us a picture of the past through novels, poems, tragedies, epic works, and other genres. Through literature, communication becomes an art, and it can bridge and bond people and cultures of different languages and backgrounds.&quot;,&quot;imageUrl&quot;:&quot;https://cdn.britannica.com/s:300x80,c:crop/44/172844-131-9695C31F/word-communication-stress-accent-letters-syllable.jpg&quot;}],&quot;featureLinks&quot;:[{&quot;title&quot;:&quot;Demystified&quot;,&quot;url&quot;:&quot;/stories/demystified&quot;},{&quot;title&quot;:&quot;#WTFact&quot;,&quot;url&quot;:&quot;/stories/wtfact&quot;},{&quot;title&quot;:&quot;Lists&quot;,&quot;url&quot;:&quot;/list/browse&quot;},{&quot;title&quot;:&quot;100 Women&quot;,&quot;url&quot;:&quot;/explore/100women/&quot;},{&quot;title&quot;:&quot;Saving Earth&quot;,&quot;url&quot;:&quot;/explore/savingearth/&quot;},{&quot;title&quot;:&quot;SpaceNext 50&quot;,&quot;url&quot;:&quot;/explore/space/&quot;},{&quot;title&quot;:&quot;Companions&quot;,&quot;url&quot;:&quot;/stories/companion&quot;},{&quot;title&quot;:&quot;Spotlight&quot;,&quot;url&quot;:&quot;/stories/spotlight&quot;},{&quot;title&quot;:&quot;Image Galleries&quot;,&quot;url&quot;:&quot;/gallery/browse&quot;}],&quot;videoChannelsLinks&quot;:[{&quot;title&quot;:&quot;Britannica Classics&quot;,&quot;url&quot;:&quot;/videos/britannica-classics&quot;,&quot;description&quot;:&quot;Check out these retro videos from Encyclopedia Britannica’s archives.&quot;},{&quot;title&quot;:&quot;Britannica Explains&quot;,&quot;url&quot;:&quot;/videos/explains&quot;,&quot;description&quot;:&quot;In these videos, Britannica explains a variety of topics and answers frequently asked questions.&quot;},{&quot;title&quot;:&quot;This Week in History&quot;,&quot;url&quot;:&quot;/videos/this-week-in-history&quot;,&quot;description&quot;:&quot;In these videos, find out what happened this week (or any week!) in history.&quot;},{&quot;title&quot;:&quot;Demystified Videos&quot;,&quot;url&quot;:&quot;/videos/demystified&quot;,&quot;description&quot;:&quot;In Demystified, Britannica has all the answers to your burning questions.&quot;},{&quot;title&quot;:&quot;#WTFact Videos&quot;,&quot;url&quot;:&quot;/videos/wtfact&quot;,&quot;description&quot;:&quot;In #WTFact Britannica shares some of the most bizarre facts we can find.&quot;}],&quot;defaultCategoryHtml&quot;:&quot;&lt;DIV class=\\&quot;marketing-NAVBAR_CATEGORY marketing-content\\&quot; data-marketing-id=\\&quot;NAVBAR_CATEGORY\\&quot;&gt;&lt;div style=\\&quot;color: #fff;\\&quot;&gt;\\r\\n    ​&lt;img style=\\&quot;max-height:50%; max-width:100%;\\&quot; src=_httpextlink_&amp;amp;rl=1&amp;amp;href=http://\\&quot;https://safe.britannica.com/safeimages/GlobalNav_First Edition_1300x200_50k.jpg\\&quot; alt=\\&quot;Access Britannica's First Edition with your Britannica Premium Membership\\&quot; /&gt;\\r\\n    &lt;p style=\\&quot;text-align: center; margin:10px;\\&quot;&gt; \\r\\n        Access the world’s original book of answers. Our three-volume, first edition book is now available online through your Britannica Premium membership.\\r\\n    &lt;/p&gt;\\r\\n    &lt;div style=\\&quot;text-align:center; font-size:18px; line-height:18px; background:#106596; font-weight: 900; border-radius: 10px; max-width:300px; margin:auto \\&quot;&gt;\\r\\n        &lt;a href=_httpextlink_&amp;amp;rl=1&amp;amp;href=http:///&quot;https://subscription.britannica.com/subscribe?partnerCode=BP_FirstEdition_EMEA\\&quot; target=\\&quot;_blank\\&quot; rel=\\&quot;nofollow noopener\\&quot; style=\\&quot;text-decoration:none; display:block; padding: 10px\\&quot;&gt;\\r\\n            &lt;span class=\\&quot;fallback-text\\&quot; style=\\&quot;color:#fff;\\&quot;&gt;Learn More&lt;/span&gt;\\r\\n        &lt;/a&gt;\\r\\n    &lt;/div&gt;\\r\\n&lt;/div&gt;\\r\\n &lt;/DIV&gt;&quot;}
+&lt;/script&gt;
+&lt;header id=&quot;header&quot;&gt;
+    &lt;div id=&quot;global-nav-react&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;header-top-row grid no-gutter middle-xs pr-sm-10&quot;&gt;
+        &lt;div class=&quot;grid-sm-33 grid-xs-shrink&quot;&gt;
+            &lt;button class=&quot;js-toggle js-toggle-search-flyout md-button-unstyled text-white d-inline-flex p-15 pr-sm-25&quot; type=&quot;button&quot; aria-label=&quot;Search Britannica&quot;&gt;
+                &lt;span class=&quot;global-nav-hover&quot;&gt;
+                    &lt;em class=&quot;material-icons inactive-icon&quot; data-icon=&quot;search&quot;&gt;&lt;/em&gt;
+&lt;em class=&quot;material-icons active-icon&quot; data-icon=&quot;close&quot;&gt;&lt;/em&gt;
+&lt;span class=&quot;d-none d-sm-inline&quot;&gt;
+                            Search Britannica
+                        &lt;/span&gt;
+                    &lt;/span&gt;
+            &lt;/button&gt;
+        &lt;/div&gt;
+        &lt;div id=&quot;global-nav-search&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;grid-sm-33 grid-xs text-center&quot;&gt;
+            &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f&quot; class=&quot;global-nav-title font-logotype font-lg-22 font-18 text-white&quot;&gt;
+                &lt;span class=&quot;d-none d-md-inline&quot;&gt;Encyclopædia&lt;/span&gt; Britannica
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;grid-sm-33 grid-xs-shrink end-xs&quot;&gt;
+            &lt;div class=&quot;d-none d-sm-block&quot;&gt;
+                &lt;button class=&quot;md-button md-link text-white login-link&quot;&gt;
+                            &lt;span class=&quot;global-nav-hover&quot;&gt;
+                                Login
+                            &lt;/span&gt;
+                        &lt;/button&gt;
+                        &lt;SPAN class=&quot;marketing-HEADER_SUBSCRIPTION_DESKTOP2 marketing-content&quot; data-marketing-id=&quot;HEADER_SUBSCRIPTION_DESKTOP2&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fsubscription.britannica.com%2fsubscribe%3fpartnerCode%3dBP%5fGN%5fArticles%5fEMEA&quot; class=&quot;subscribe-link md-button md-outline text-white&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+   Subscribe Now
+&lt;/a&gt;&lt;/SPAN&gt;&lt;/div&gt;
+            &lt;button class=&quot;js-toggle js-toggle-hamburger md-button-unstyled d-sm-none p-15&quot; type=&quot;button&quot; aria-label=&quot;Toggle mobile menu&quot;&gt;
+                &lt;span class=&quot;no-outline&quot;&gt;
+                    &lt;em class=&quot;material-icons &quot; data-icon=&quot;menu&quot;&gt;&lt;/em&gt;
+&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;div id=&quot;global-nav-hamburger&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;subnav grid no-gutter middle-xs d-none d-sm-flex&quot;&gt;
+        &lt;div class=&quot;grid-lg-33 grid-xs&quot;&gt;
+
+            &lt;button class=&quot;js-toggle js-toggle-browse-subject md-button-unstyled d-inline-block py-10 pl-20 pr-10 pr-md-15 text-white&quot; role=&quot;button&quot;&gt;
+                &lt;span class=&quot;global-nav-hover&quot;&gt;
+                    Categories&lt;em class=&quot;material-icons inactive-icon&quot; data-icon=&quot;expand_more&quot;&gt;&lt;/em&gt;
+&lt;em class=&quot;material-icons active-icon&quot; data-icon=&quot;expand_less&quot;&gt;&lt;/em&gt;
+&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;div id=&quot;global-nav-browse-subject&quot; class=&quot;header-browse&quot;&gt;
+                &lt;ul class=&quot;d-none&quot;&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fScience&quot;&gt;Science&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fTechnology&quot;&gt;Technology&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fHealth-Medicine&quot;&gt;Health &amp; Medicine&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fSports-Recreation&quot;&gt;Sports &amp; Recreation&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fGeography-Travel&quot;&gt;Geography &amp; Travel&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fWorld-History&quot;&gt;World History&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fPhilosophy-Religion&quot;&gt;Philosophy &amp; Religion&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fLifestyles-Social-Issues&quot;&gt;Lifestyles &amp; Social Issues&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fPolitics-Law-Government&quot;&gt;Politics, Law &amp; Government&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fEntertainment-Pop-Culture&quot;&gt;Entertainment &amp; Pop Culture&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fVisual-Arts&quot;&gt;Visual Arts&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fLiterature&quot;&gt;Literature&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+            &lt;/div&gt;
+
+            &lt;button class=&quot;js-toggle js-toggle-features md-button-unstyled py-10 px-10 px-md-15 d-inline-block text-white&quot; role=&quot;button&quot;&gt;
+                &lt;span class=&quot;global-nav-hover&quot;&gt;
+                    Features&lt;em class=&quot;material-icons inactive-icon&quot; data-icon=&quot;expand_more&quot;&gt;&lt;/em&gt;
+&lt;em class=&quot;material-icons active-icon&quot; data-icon=&quot;expand_less&quot;&gt;&lt;/em&gt;
+&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;div id=&quot;global-nav-browse-features&quot; class=&quot;header-browse&quot;&gt;
+                &lt;ul class=&quot;d-none&quot;&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstories%2fdemystified&quot;&gt;Demystified&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstories%2fwtfact&quot;&gt;#WTFact&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2fbrowse&quot;&gt;Lists&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fexplore%2f100women%2f&quot;&gt;100 Women&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fexplore%2fsavingearth%2f&quot;&gt;Saving Earth&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fexplore%2fspace%2f&quot;&gt;SpaceNext 50&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstories%2fcompanion&quot;&gt;Companions&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstories%2fspotlight&quot;&gt;Spotlight&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fgallery%2fbrowse&quot;&gt;Image Galleries&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+            &lt;/div&gt;
+
+            &lt;button class=&quot;js-toggle js-toggle-videos md-button-unstyled py-10 px-10 px-md-15 d-inline-block text-white&quot; role=&quot;button&quot;&gt;
+                &lt;span class=&quot;global-nav-hover&quot;&gt;
+                    Videos
+                    &lt;em class=&quot;material-icons inactive-icon&quot; data-icon=&quot;expand_more&quot;&gt;&lt;/em&gt;
+&lt;em class=&quot;material-icons active-icon&quot; data-icon=&quot;expand_less&quot;&gt;&lt;/em&gt;
+&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;div id=&quot;global-nav-browse-videos&quot; class=&quot;header-browse&quot;&gt;
+                &lt;ul class=&quot;d-none&quot;&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fScience&quot;&gt;Science&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fTechnology&quot;&gt;Technology&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fHealth-Medicine&quot;&gt;Health &amp; Medicine&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fSports-Recreation&quot;&gt;Sports &amp; Recreation&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fGeography-Travel&quot;&gt;Geography &amp; Travel&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fWorld-History&quot;&gt;World History&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fPhilosophy-Religion&quot;&gt;Philosophy &amp; Religion&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fLifestyles-Social-Issues&quot;&gt;Lifestyles &amp; Social Issues&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fPolitics-Law-Government&quot;&gt;Politics, Law &amp; Government&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fEntertainment-Pop-Culture&quot;&gt;Entertainment &amp; Pop Culture&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fVisual-Arts&quot;&gt;Visual Arts&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fLiterature&quot;&gt;Literature&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;ul class=&quot;d-none&quot;&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fbritannica-classics&quot;&gt;Britannica Classics&lt;br/&gt;Check out these retro videos from Encyclopedia Britannica’s archives.&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fexplains&quot;&gt;Britannica Explains&lt;br/&gt;In these videos, Britannica explains a variety of topics and answers frequently asked questions.&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fthis-week-in-history&quot;&gt;This Week in History&lt;br/&gt;In these videos, find out what happened this week (or any week!) in history.&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fdemystified&quot;&gt;Demystified Videos&lt;br/&gt;In Demystified, Britannica has all the answers to your burning questions.&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos%2fwtfact&quot;&gt;#WTFact Videos&lt;br/&gt;In #WTFact Britannica shares some of the most bizarre facts we can find.&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+
+        &lt;div class=&quot;grid-lg-33 grid-xs-shrink between-xs&quot;&gt;
+            &lt;a class=&quot;text-white mx-15 mx-md-20&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbiographies&quot;&gt;
+                    &lt;div class=&quot;global-nav-hover&quot;&gt;
+                        Biographies&lt;/div&gt;
+                &lt;/a&gt;
+            &lt;a class=&quot;text-white mx-15 mx-md-20&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fon-this-day&quot;&gt;
+                    &lt;div class=&quot;global-nav-hover&quot;&gt;
+                        On This Day&lt;/div&gt;
+                &lt;/a&gt;
+            &lt;a class=&quot;text-white mx-15 mx-md-20&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2fbrowse&quot;&gt;
+                    &lt;div class=&quot;global-nav-hover&quot;&gt;
+                        Quizzes&lt;/div&gt;
+                &lt;/a&gt;
+            &lt;div class=&quot;d-block d-lg-none&quot;&gt;
+                &lt;DIV class=&quot;marketing-GLOBAL_NAV_SUBNAV_RIGHT marketing-content&quot; data-marketing-id=&quot;GLOBAL_NAV_SUBNAV_RIGHT&quot;&gt;&lt;a class=&quot;mr-10 text-white&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fexplore%2fsavingearth%2fcovid-19&quot; target=&quot;_blank&quot;&gt;COVID-19&lt;/a&gt;&lt;/DIV&gt;&lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;grid-lg d-none d-lg-flex grid-xs end-xs&quot;&gt;
+            &lt;DIV class=&quot;marketing-GLOBAL_NAV_SUBNAV_RIGHT marketing-content&quot; data-marketing-id=&quot;GLOBAL_NAV_SUBNAV_RIGHT&quot;&gt;&lt;a class=&quot;mr-10 text-white&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fexplore%2fsavingearth%2fcovid-19&quot; target=&quot;_blank&quot;&gt;COVID-19&lt;/a&gt;&lt;/DIV&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/header&gt;
+&lt;div id=&quot;hamburger-login&quot;&gt;&lt;/div&gt;
+
+&lt;main&gt;
+
+    &lt;div class=&quot;md-page-wrapper&quot;&gt;
+
+        &lt;div id=&quot;content&quot; class=&quot;md-content&quot;&gt;
+            &lt;div class=&quot;md-article-container template-desktop infinite-pagination&quot;&gt;
+&lt;article class=&quot;article-content content&quot; data-topic-id=&quot;16217&quot;&gt;
+
+            
+
+
+
+
+&lt;script   class=&quot;topic-json&quot; type=&quot;application/json&quot;&gt;
+
+   {
+       &quot;16217&quot;: {
+            &quot;url&quot;: &quot;/biography/Woody-Allen&quot;,
+            &quot;shareUrl&quot;: &quot;https://www.britannica.com/biography/Woody-Allen&quot;,
+            &quot;title&quot;: &quot;Woody Allen&quot;,
+            &quot;documentGroup&quot;: &quot;TOPIC PAGINATED BIO LARGE&quot;
+       }
+   }
+
+&lt;/script&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;topic-toolbar sticky-toolbar flex middle-xs&quot;&gt;
+
+&lt;div class=&quot;grid no-gutter&quot;&gt;
+
+
+
+
+
+&lt;div class=&quot;toc-toggle-panel grid-xs-shrink pl-5 pl-sm-20 middle-xs between-xs&quot;&gt;
+
+&lt;button type=&quot;button&quot; class=&quot;toc-toggle-button text-blue-dark layout-column middle-xs&quot; aria-label=&quot;Toggle Contents&quot;&gt;
+&lt;em class=&quot;material-icons &quot; data-icon=&quot;list&quot;&gt;&lt;/em&gt;
+
+&lt;span class=&quot;d-none d-sm-inline font-10 text-600&quot;&gt;Contents&lt;/span&gt;
+&lt;/button&gt;
+
+&lt;button type=&quot;button&quot; class=&quot;expand-collapse-button text-uppercase text-blue middle-xs d-none material-icons&quot;&gt;&lt;/button&gt;
+
+
+
+
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+&lt;div class=&quot;grid-xs d-none d-lg-flex center-xs layout-column pl-20&quot;&gt;
+&lt;div class=&quot;font-18 text-truncate&quot;&gt;Woody Allen&lt;/div&gt;
+&lt;div class=&quot;text-uppercase font-11&quot;&gt;American actor and director&lt;/div&gt;
+        &lt;/div&gt;
+
+
+
+
+
+
+&lt;div class=&quot;grid-xs grid-lg-shrink end-xs middle-xs pr-10 pr-sm-0&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;button class=&quot;pill-button qa-article-button mr-10 active&quot;  title=&quot;Article&quot;&gt;
+&lt;em class=&quot;material-icons &quot; data-icon=&quot;description&quot;&gt;&lt;/em&gt;
+
+
+
+&lt;span class=&quot;d-sm-inline d-none&quot;&gt;
+Article
+&lt;/span&gt;
+
+&lt;/button&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&quot;pill-button qa-facts-button mr-10 &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ffacts%2fWoody-Allen&quot; title=&quot;Facts &amp; Data&quot;&gt;
+&lt;em class=&quot;material-icons &quot; data-icon=&quot;view_quilt&quot;&gt;&lt;/em&gt;
+
+
+
+&lt;span class=&quot;d-sm-inline d-none&quot;&gt;
+Facts&amp;nbsp;&amp;amp;&amp;nbsp;Data
+&lt;/span&gt;
+
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&quot;pill-button qa-media-button &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbiography%2fWoody-Allen%2fimages-videos&quot; title=&quot;Media&quot;&gt;
+&lt;em class=&quot;material-icons &quot; data-icon=&quot;collections&quot;&gt;&lt;/em&gt;
+
+
+
+&lt;span class=&quot;d-sm-inline d-none&quot;&gt;
+Media
+&lt;/span&gt;
+
+&lt;/a&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+&lt;div class=&quot;article-tools grid-xs-shrink d-none d-sm-flex end-xs&quot;&gt;
+&lt;div class=&quot;wrapper d-flex end-xs&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;button class=&quot;popover-button toolbar-info js-trigger-info-modal layout-column p-5 text-uppercase text-blue-dark font-10 text-600 middle-xs&quot;     &gt;
+&lt;em class=&quot;material-icons &quot; data-icon=&quot;info&quot;&gt;&lt;/em&gt;
+
+Info
+&lt;/button&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;button class=&quot;popover-button toolbar-print d-lg-flex layout-column p-5 text-uppercase text-blue-dark font-10 text-600 middle-xs&quot;   data-popover=&quot;.print-popover&quot;  &gt;
+&lt;em class=&quot;material-icons &quot; data-icon=&quot;print&quot;&gt;&lt;/em&gt;
+
+Print
+&lt;/button&gt;
+
+
+
+&lt;div class=&quot;print-popover md-popover text-left&quot;&gt;
+   &lt;div class=&quot;popover-body&quot;&gt;
+   &lt;div class=&quot;title&quot;&gt;Print&lt;/div&gt;
+   Please select which sections you would like to print:
+   &lt;form action=&quot;/print/article/16217&quot; method=&quot;post&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+   &lt;div class=&quot;print-box-items&quot;&gt;
+   &lt;ul&gt;
+   &lt;li&gt;&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;sequence[]&quot; value=&quot;0&quot;&gt;Table Of Contents&lt;/label&gt;&lt;/li&gt;
+   &lt;/ul&gt;
+   &lt;/div&gt;
+   &lt;input type=&quot;submit&quot; class=&quot;md-button md-primary md-disabled&quot; value=&quot;Print&quot; /&gt;
+   &lt;/form&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;button class=&quot;popover-button toolbar-cite layout-column p-5 text-uppercase text-blue-dark font-10 text-600 middle-xs&quot;   data-popover=&quot;.citation-popover&quot; data-popover-url=&quot;/ajax/topic/16217/cite&quot; &gt;
+&lt;em class=&quot;material-icons &quot; data-icon=&quot;bookmark&quot;&gt;&lt;/em&gt;
+
+Cite
+&lt;/button&gt;
+
+
+
+&lt;div class=&quot;citation-popover md-popover&quot;&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;button class=&quot;popover-button toolbar-feedback layout-column p-5 text-uppercase text-blue-dark font-10 text-600 middle-xs&quot;   data-popover=&quot;.feedback-popover&quot;  &gt;
+&lt;em class=&quot;material-icons &quot; data-icon=&quot;chat&quot;&gt;&lt;/em&gt;
+
+Feedback
+&lt;/button&gt;
+
+
+
+&lt;div class=&quot;feedback-popover md-popover text-left&quot;&gt;
+ &lt;div class=&quot;popover-body&quot;&gt;
+
+         &lt;form method=&quot;post&quot; action=&quot;/submission/feedback/16217&quot;&gt;
+             &lt;div class=&quot;title&quot;&gt;Feedback&lt;/div&gt;
+ &lt;label for=&quot;feedback&quot;&gt;
+Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article
+     (requires login).
+ &lt;/label&gt;
+
+         &lt;div class=&quot;type-menu&quot;&gt;
+         &lt;label for=&quot;feedback-type&quot;&gt;Select feedback type:&lt;/label&gt;
+         &lt;select id=&quot;feedback-type&quot; class=&quot;form-control&quot; name=&quot;feedbackTypeId&quot; required&gt;
+         &lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Select a type (Required)&lt;/option&gt;
+         &lt;option value=&quot;1&quot;&gt;Factual Correction&lt;/option&gt;
+         &lt;option value=&quot;2&quot;&gt;Spelling/Grammar Correction&lt;/option&gt;
+         &lt;option value=&quot;3&quot;&gt;Link Correction&lt;/option&gt;
+         &lt;option value=&quot;4&quot;&gt;Additional Information&lt;/option&gt;
+         &lt;option value=&quot;5&quot;&gt;Other&lt;/option&gt;
+         &lt;/select&gt;
+         &lt;/div&gt;
+
+         &lt;textarea id=&quot;feedback&quot; class=&quot;form-control&quot; name=&quot;feedback&quot; maxlength=&quot;3000&quot; required&gt;&lt;/textarea&gt;
+
+  &lt;div class=&quot;text-center gutter-bottom&quot;&gt;
+ &lt;button class=&quot;md-button md-primary&quot; type=&quot;submit&quot;&gt;Submit Feedback&lt;/button&gt;
+ &lt;/div&gt;
+ &lt;/form&gt;
+
+         &lt;div class=&quot;success-messaging ui-hidden&quot;&gt;
+             &lt;div class=&quot;title&quot;&gt;Thank you for your feedback&lt;/div&gt;
+             &lt;p&gt;Our editors will review what you’ve submitted and determine whether to revise the article.&lt;/p&gt;
+             &lt;a class=&quot;promo&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fcorporate.britannica.com%2fpublishing-partner-program&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+                 Join &lt;strong&gt;Britannica's Publishing Partner Program&lt;/strong&gt; and our community of experts to gain a global audience for your work!
+             &lt;/a&gt;
+         &lt;/div&gt;
+
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;button class=&quot;popover-button toolbar-share layout-column p-5 text-uppercase text-blue-dark font-10 text-600 middle-xs&quot;   data-popover=&quot;.share-popover&quot;  &gt;
+&lt;em class=&quot;material-icons &quot; data-icon=&quot;share&quot;&gt;&lt;/em&gt;
+
+Share
+&lt;/button&gt;
+
+
+
+&lt;div class=&quot;share-popover md-popover text-left&quot;&gt;
+   &lt;div class=&quot;popover-body&quot;&gt;
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+    
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+&lt;div class=&quot;md-social-toolbar-circle center-xs inverted blue-border pt-15 start-xs&quot;
+     data-value=&quot;share&quot;
+     title=&quot;Woody Allen&quot;
+     data-url=&quot;https://www.britannica.com/biography/Woody-Allen&quot;
+&gt;
+    
+        &lt;div class=&quot;share-label grid-xs&quot;&gt;SHARE&lt;/div&gt;
+    
+    
+        &lt;a class=&quot;ui-icon-facebook center-xs middle-xs&quot; data-provider=&quot;facebook&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.facebook.com%2fBRITANNICA&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Facebook&quot;&gt;&lt;span&gt;Facebook&lt;/span&gt;&lt;/a&gt;
+    
+    
+        &lt;a class=&quot;ui-icon-twitter center-xs middle-xs&quot; data-provider=&quot;twitter&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftwitter.com%2fbritannica&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Twitter&quot;&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/a&gt;
+    
+    
+    
+    
+    
+    
+    
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;grid no-gutter&quot;&gt;
+
+            &lt;div class=&quot;md-toc-panel&quot;&gt;
+      &lt;div class=&quot;md-toc lh-md&quot;&gt;
+          &lt;ul data-level=&quot;h1&quot;&gt;&lt;li data-target=&quot;#ref1&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbiography%2fWoody-Allen&quot;&gt;Introduction &amp;amp; Quick Facts&lt;/a&gt;&lt;/li&gt;&lt;li data-target=&quot;#ref311791&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbiography%2fWoody-Allen&quot;&gt;Youth and early work&lt;/a&gt;&lt;/li&gt;&lt;li data-target=&quot;#ref311792&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbiography%2fWoody-Allen&quot;&gt;The 1970s&lt;/a&gt;&lt;/li&gt;&lt;li data-target=&quot;#ref311793&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbiography%2fWoody-Allen%2fThe-1980s&quot;&gt;The 1980s&lt;/a&gt;&lt;/li&gt;&lt;li data-target=&quot;#ref311794&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbiography%2fWoody-Allen%2fThe-1990s&quot;&gt;The 1990s&lt;/a&gt;&lt;/li&gt;&lt;li data-target=&quot;#ref311795&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbiography%2fWoody-Allen%2f2000-and-beyond&quot;&gt;2000 and beyond&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+   &lt;/div&gt;
+&lt;div class=&quot;grid-xs&quot;&gt;
+
+                    &lt;div class=&quot;infinite-pagination-container container&quot;&gt;
+
+                    &lt;h1&gt;Woody Allen&lt;/h1&gt;
+
+&lt;div class=&quot;topic-identifier&quot;&gt;American actor and director&lt;/div&gt;
+&lt;div class=&quot;md-byline&quot;&gt;
+&lt;div class=&quot;written-by&quot;&gt;
+&lt;span&gt;Written By: &lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2feditor%2fThe-Editors-of-Encyclopaedia-Britannica%2f4419&quot;&gt;The Editors of Encyclopaedia Britannica&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;last-updated&quot;&gt;
+&lt;span&gt;Last Updated: &lt;/span&gt;
+&lt;time datetime=&quot;2020-03-25&quot;&gt;
+Mar 25, 2020&lt;/time&gt;
+&lt;a data-type=&quot;accordion-link&quot; href=&quot;_httpsamepagelink_#accordion-article-history&quot; rel=&quot;nofollow&quot;&gt;See Article History&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;md-alternate-titles&quot;&gt;
+&lt;strong&gt;Alternative Titles:&lt;/strong&gt;
+Allen Stewart Konigsberg, Heywood Allen&lt;/div&gt;
+&lt;div class=&quot;grid gutter-right&quot;&gt;
+
+    &lt;div class=&quot;grid-sm pr-lg-60&quot;&gt;
+
+    &lt;!--[BEFORE-ARTICLE]--&gt;&lt;span class=&quot;marker before-article&quot;&gt;&lt;/span&gt;&lt;section id=&quot;ref1&quot; data-level=&quot;1&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span id=&quot;ref126305&quot;&gt;&lt;/span&gt;Woody Allen&lt;/strong&gt;, original name &lt;strong&gt;Allen Stewart Konigsberg&lt;/strong&gt;, legal name &lt;strong&gt;Heywood Allen&lt;/strong&gt;,  (born December 1, 1935, Brooklyn, New York, U.S. ),  American motion-picture director, screenwriter, actor, comedian, playwright, and author, best known for his bittersweet comic films containing elements of parody, &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fslapstick-comedy&quot; class=&quot;md-crosslink autoxref&quot;&gt;slapstick&lt;/a&gt;, and the absurd but who also made weighty dramas, often with dark themes and bleak landscapes reminiscent of the work of Swedish director &lt;span id=&quot;ref1182599&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fIngmar-Bergman&quot; class=&quot;md-crosslink&quot;&gt;Ingmar Bergman&lt;/a&gt;—who, perhaps more than any other filmmaker, influenced Allen’s work. Allen was also known as a sympathetic director for women, writing strong and well-defined characters for them. Among his featured performers were &lt;span id=&quot;ref784948&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fDiane-Keaton&quot; class=&quot;md-crosslink&quot;&gt;Diane Keaton&lt;/a&gt; and &lt;span id=&quot;ref784652&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fMia-Farrow&quot; class=&quot;md-crosslink&quot;&gt;Mia Farrow&lt;/a&gt;, with both of whom he was also romantically involved. By the late 1970s Allen not only was widely regarded as one of the world’s most-accomplished filmmakers but also was considered something of an American national treasure. The unevenness of his films in the 1980s and ’90s tarnished his reputation, as did some disastrous turns in his personal life, but he remained a significant, extraordinarily &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fprolific&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;prolific&quot;&gt;prolific&lt;/a&gt; filmmaker well into the 21st century.&lt;/p&gt;&lt;!--[P1]--&gt;&lt;span class=&quot;marker p1&quot;&gt;&lt;/span&gt;&lt;!--[AM1]--&gt;&lt;span class=&quot;marker AM1 am-inline&quot;&gt;&lt;/span&gt;&lt;span class=&quot;marker MOD1 mod-inline&quot;&gt;&lt;/span&gt;&lt;/section&gt;     &lt;!--[H2]--&gt;&lt;span class=&quot;marker h2&quot;&gt;&lt;/span&gt;&lt;section id=&quot;ref311791&quot; data-level=&quot;1&quot;&gt;&lt;h2 class=&quot;h1&quot;&gt;Youth and early work&lt;/h2&gt; &lt;p&gt;Allen Konigsberg grew up in &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fplace%2fBrooklyn-borough-New-York-City&quot; class=&quot;md-crosslink&quot;&gt;Brooklyn&lt;/a&gt; in a family steeped in Jewish &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fculture&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;culture&quot;&gt;culture&lt;/a&gt;. He was especially close to his younger sister, who would later work with him as a producer. As a boy, he was enamoured of sports, &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fmagic-supernatural-phenomenon&quot; class=&quot;md-crosslink autoxref&quot;&gt;magic&lt;/a&gt;, motion pictures, and &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fjazz&quot; class=&quot;md-crosslink&quot;&gt;jazz&lt;/a&gt; (taking up the clarinet as a teenager, though his musical idol was saxophonist &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fSidney-Bechet&quot; class=&quot;md-crosslink&quot;&gt;Sidney Bechet&lt;/a&gt;). While still in &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fhigh-school&quot; class=&quot;md-crosslink autoxref&quot;&gt;high school&lt;/a&gt;, using the name Woody Allen, he began submitting quips to newspaper columnists—most notably to the nationally syndicated Earl Wilson. Before long, as Woody Allen, he was being paid to write jokes for entertainers. Stints by Allen as a student at &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fNew-York-University&quot; class=&quot;md-crosslink&quot;&gt;New York University&lt;/a&gt; (as a &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fmotion-picture&quot; class=&quot;md-crosslink autoxref&quot;&gt;film&lt;/a&gt; major) and the City College of New York were ended abruptly by poor grades and erratic attendance. In 1956 Allen began writing for television, and in 1958 he joined &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fSid-Caesar&quot; class=&quot;md-crosslink&quot;&gt;Sid Caesar&lt;/a&gt;’s writing staff alongside &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fLarry-Simon-Gelbart&quot; class=&quot;md-crosslink&quot;&gt;Larry Gelbart&lt;/a&gt; (later the writer-producer of TV’s &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fM-A-S-H&quot; class=&quot;md-crosslink&quot;&gt;&lt;em&gt;M*A*S*H*&lt;/em&gt;&lt;/a&gt;) and &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fMel-Brooks&quot; class=&quot;md-crosslink&quot;&gt;Mel Brooks&lt;/a&gt;. In 1960 Allen moved to the &lt;em&gt;Garry Moore Show&lt;/em&gt;. At this time he also began performing &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fstand-up-comedy&quot; class=&quot;md-crosslink&quot;&gt;stand-up comedy&lt;/a&gt; at clubs in &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fplace%2fGreenwich-Village&quot; class=&quot;md-crosslink&quot;&gt;Greenwich Village&lt;/a&gt;, which led to guest appearances on television and to several comedy albums.&lt;/p&gt;&lt;!--[P2]--&gt;&lt;span class=&quot;marker p2&quot;&gt;&lt;/span&gt;&lt;!--[AM2]--&gt;&lt;span class=&quot;marker AM2 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD2]--&gt;&lt;span class=&quot;marker MOD2 mod-inline&quot;&gt;&lt;/span&gt; &lt;p&gt;While performing stand-up in a nightclub in 1964, Allen impressed actress &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fShirley-MacLaine&quot; class=&quot;md-crosslink&quot;&gt;Shirley MacLaine&lt;/a&gt; and producer Charles K. Feldman, who gave him a chance to write the screenplay for the film &lt;em&gt;&lt;span id=&quot;ref1182564&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fWhats-New-Pussycat-film-by-Donner-and-Talmadge&quot; class=&quot;md-crosslink&quot;&gt;What’s New, Pussycat?&lt;/a&gt;&lt;/em&gt; (1965), in which he also appeared. Allen made his first film, &lt;em&gt;&lt;span id=&quot;ref1182565&quot;&gt;&lt;/span&gt;What’s Up, Tiger Lily?&lt;/em&gt; (1966), by redubbing a &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fJames-Bond&quot; class=&quot;md-crosslink&quot;&gt;James Bond&lt;/a&gt;-like Japanese action film, &lt;em&gt;International Secret Police: Key of Keys&lt;/em&gt; (1965), and shifting its focus to the pursuit of a top-secret recipe for egg salad. A year later Allen played Bond’s nephew in &lt;span id=&quot;ref1182566&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fCasino-Royale-film-1967&quot; class=&quot;md-crosslink&quot;&gt;&lt;em&gt;Casino Royale&lt;/em&gt;&lt;/a&gt;. In the meantime, he wrote a play, &lt;em&gt;&lt;span id=&quot;ref1182567&quot;&gt;&lt;/span&gt;Don’t Drink the Water&lt;/em&gt;, which won acclaim on &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fBroadway-street-and-district-New-York-City&quot; class=&quot;md-crosslink&quot;&gt;Broadway&lt;/a&gt; in 1966. That year also marked Allen’s first contribution to &lt;span id=&quot;ref1182568&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fThe-New-Yorker&quot; class=&quot;md-crosslink&quot;&gt;&lt;em&gt;The New Yorker&lt;/em&gt;&lt;/a&gt;. Writing initially in the style of &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fS-J-Perelman&quot; class=&quot;md-crosslink&quot;&gt;S.J. Perelman&lt;/a&gt;, Allen would go on to contribute dozens of sophisticated humour pieces to the magazine over several decades; these pieces were collected in books such as &lt;em&gt;Without Feathers&lt;/em&gt; (1975) and &lt;em&gt;Getting Even&lt;/em&gt; (1978).&lt;/p&gt;&lt;!--[P3]--&gt;&lt;span class=&quot;marker p3&quot;&gt;&lt;/span&gt;&lt;!--[AM3]--&gt;&lt;span class=&quot;marker AM3 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD3]--&gt;&lt;span class=&quot;marker MOD3 mod-inline&quot;&gt;&lt;/span&gt; &lt;p&gt;&lt;span id=&quot;ref1182569&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fTake-the-Money-and-Run&quot; class=&quot;md-crosslink&quot;&gt;&lt;em&gt;Take the Money and Run&lt;/em&gt;&lt;/a&gt; (1969) was Allen’s debut behind the camera. An uneven but often riotously funny pseudo-documentary, it was cowritten by Mickey Rose and Allen, who starred as a hopelessly inept thief who apparently learned his trade from watching old &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fWarner-Brothers&quot; class=&quot;md-crosslink&quot;&gt;Warner Brothers&lt;/a&gt; prison films. Made for under $2 million, the film did well enough to earn Allen a three-picture deal with &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fUnited-Artists-Corporation&quot; class=&quot;md-crosslink&quot;&gt;United Artists Corporation&lt;/a&gt;, for whom he would continue to make films throughout the 1970s.&lt;/p&gt;&lt;!--[P4]--&gt;&lt;span class=&quot;marker p4&quot;&gt;&lt;/span&gt;&lt;div class=&quot;assemblies&quot;&gt;&lt;figure class=&quot;md-assembly  print-false&quot; data-assembly-id=&quot;188172&quot;&gt;&lt;div class=&quot;md-assembly-wrapper&quot; data-type=&quot;image&quot;&gt;&lt;div class=&quot;image-wrapper mg&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f79%2f175579-050-9C9C2BE8%2fTake-the-Money-and-Run-Woody-Allen.jpg&quot; class=&quot;media-overlay-link&quot; data-href=&quot;/media/1/16217/188172&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/s:700x500/79/175579-050-9C9C2BE8/Take-the-Money-and-Run-Woody-Allen.jpg&quot; alt=&quot;scene from Take the Money and Run&quot; data-width=&quot;1600&quot; data-height=&quot;1395&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;figcaption&gt;&lt;strong class=&quot;md-assembly-title&quot;&gt;scene from &lt;em&gt;Take the Money and Run&lt;/em&gt;&lt;/strong&gt;&lt;span class=&quot;md-assembly-caption&quot;&gt;Woody Allen in &lt;em&gt;Take the Money and Run&lt;/em&gt; (1969), which he directed and cowrote. &lt;/span&gt;&lt;cite&gt;© Cinerama Releasing Corporation&lt;/cite&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!--[AM4]--&gt;&lt;span class=&quot;marker AM4 am-inline&quot;&gt;&lt;/span&gt;&lt;DIV class=&quot;marketing-INLINE_SUBSCRIPTION marketing-content&quot; data-marketing-id=&quot;INLINE_SUBSCRIPTION&quot;&gt;&lt;div class=&quot;inline-subscription mb-30 mx-sm-20 font-16 text-center&quot;&gt;
+Get exclusive access to content from our 1768 First Edition with your subscription. 
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fsubscription.britannica.com%2fsubscribe%3fpartnerCode%3dBP%5fHouse%5fEMEA&quot; class=&quot;cta&quot;&gt;Subscribe today&lt;/a&gt;
+&lt;/div&gt;&lt;/DIV&gt;&lt;span class=&quot;marker MOD4 mod-inline&quot;&gt;&lt;/span&gt;&lt;/section&gt; &lt;!--[H3]--&gt;&lt;span class=&quot;marker h3&quot;&gt;&lt;/span&gt;&lt;section id=&quot;ref311792&quot; data-level=&quot;1&quot;&gt;&lt;h2 class=&quot;h1&quot;&gt;The 1970s&lt;/h2&gt; &lt;p&gt;Before undertaking another feature film, Allen starred on Broadway from 1969 to 1970 in another play that he had written, the &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fromantic&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;romantic&quot;&gt;romantic&lt;/a&gt; comedy &lt;em&gt;&lt;span id=&quot;ref1182570&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fPlay-It-Again-Sam-film-by-Ross&quot; class=&quot;md-crosslink&quot;&gt;Play It Again, Sam&lt;/a&gt;&lt;/em&gt;. In the 1972 &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fHerbert-Ross&quot; class=&quot;md-crosslink&quot;&gt;Herbert Ross&lt;/a&gt;-directed film &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fadaptation&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;adaptation&quot;&gt;adaptation&lt;/a&gt; of the play, Allen &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2freprised&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;reprised&quot;&gt;reprised&lt;/a&gt; his role as a shy film critic who seeks romantic advice from an apparition of &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fHumphrey-Bogart&quot; class=&quot;md-crosslink&quot;&gt;Humphrey Bogart&lt;/a&gt;. &lt;em&gt;&lt;span id=&quot;ref1182571&quot;&gt;&lt;/span&gt;Bananas&lt;/em&gt; (1971), the first of Allen’s directorial efforts for &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fUnited-Artists-Corporation&quot; class=&quot;md-crosslink&quot;&gt;United Artists&lt;/a&gt;, starred him as a hapless, neurotic Manhattanite who is drawn into a revolution in a fictional Central American country. Though somewhat undisciplined, &lt;em&gt;Bananas&lt;/em&gt; offered snatches of absurdist humour that rank among Allen’s funniest film moments.&lt;/p&gt;&lt;!--[P5]--&gt;&lt;span class=&quot;marker p5&quot;&gt;&lt;/span&gt;&lt;div class=&quot;assemblies&quot;&gt;&lt;figure class=&quot;md-assembly  print-false&quot; data-assembly-id=&quot;161720&quot;&gt;&lt;div class=&quot;md-assembly-wrapper&quot; data-type=&quot;image&quot;&gt;&lt;div class=&quot;image-wrapper mg&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f06%2f153006-050-F96FD67C%2fWoody-Allen-1979.jpg&quot; class=&quot;media-overlay-link&quot; data-href=&quot;/media/1/16217/161720&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/s:700x500/06/153006-050-F96FD67C/Woody-Allen-1979.jpg&quot; alt=&quot;Woody Allen&quot; data-width=&quot;1600&quot; data-height=&quot;1087&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;figcaption&gt;&lt;strong class=&quot;md-assembly-title&quot;&gt;Woody Allen&lt;/strong&gt;&lt;span class=&quot;md-assembly-caption&quot;&gt;Woody Allen, c. 1979.&lt;/span&gt;&lt;cite&gt;Keystone Archives/Heritage-Images/Imagestate&lt;/cite&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!--[AM5]--&gt;&lt;span class=&quot;marker AM5 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD5]--&gt;&lt;span class=&quot;marker MOD5 mod-inline&quot;&gt;&lt;/span&gt; &lt;p&gt;In &lt;em&gt;&lt;span id=&quot;ref1182572&quot;&gt;&lt;/span&gt;Everything You Always Wanted to Know About Sex* (*but Were Afraid to Ask)&lt;/em&gt; (1972), Allen satirized David Reuben’s popular sex manual with mixed results. &lt;em&gt;&lt;span id=&quot;ref1182573&quot;&gt;&lt;/span&gt;Sleeper&lt;/em&gt; (1973), a far more &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fcohesive&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;cohesive&quot;&gt;cohesive&lt;/a&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fsatire&quot; class=&quot;md-crosslink autoxref&quot;&gt;satire&lt;/a&gt;, featured Allen in the role of a neurotic health-food mogul who goes into the hospital for a simple operation and awakens 200 years later to learn that doctors had frozen him and that he is now a stranger in an even stranger land. Sex is forbidden—a notion &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2finimical&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;inimical&quot;&gt;inimical&lt;/a&gt; to any Allen protagonist—so he joins the rebel underground, whose leader is played by Diane Keaton (Allen’s costar in &lt;em&gt;Play It Again, Sam&lt;/em&gt;). &lt;em&gt;&lt;span id=&quot;ref1182575&quot;&gt;&lt;/span&gt;Love and Death&lt;/em&gt; (1975), a parody of &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fLeo-Tolstoy&quot; class=&quot;md-crosslink&quot;&gt;Leo Tolstoy&lt;/a&gt;’s fiction, &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fSergey-Eisenstein&quot; class=&quot;md-crosslink&quot;&gt;Sergey Eisenstein&lt;/a&gt;’s filmmaking, and a clutch of other landmarks of Russian culture, was less universally applauded.&lt;/p&gt;&lt;!--[P6]--&gt;&lt;span class=&quot;marker p6&quot;&gt;&lt;/span&gt;&lt;!--[AM6]--&gt;&lt;span class=&quot;marker AM6 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD6]--&gt;&lt;span class=&quot;marker MOD6 mod-inline&quot;&gt;&lt;/span&gt; &lt;p&gt;After delivering an excellent “straight” performance as the protagonist in &lt;em&gt;&lt;span id=&quot;ref1182576&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fThe-Front-film-by-Ritt&quot; class=&quot;md-crosslink&quot;&gt;The Front&lt;/a&gt;&lt;/em&gt; (1976), &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fMartin-Ritt&quot; class=&quot;md-crosslink&quot;&gt;Martin Ritt&lt;/a&gt;’s fine &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2ftheatre-art&quot; class=&quot;md-crosslink autoxref&quot;&gt;drama&lt;/a&gt; about &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fHollywood-blacklist&quot; class=&quot;md-crosslink&quot;&gt;Hollywood blacklisting&lt;/a&gt;, Allen made &lt;em&gt;&lt;span id=&quot;ref126306&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fAnnie-Hall&quot; class=&quot;md-crosslink&quot;&gt;Annie Hall&lt;/a&gt;&lt;/em&gt; (1977), a breakthrough work that dramatically elevated his status as a filmmaker. An elliptical account of the rise and fall of a romance between the quirky title character (played by Keaton) and a comedy writer (Allen), it was Allen’s first attempt to blend genuine &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fsentiment&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;sentiment&quot;&gt;sentiment&lt;/a&gt; with his patented theatre-of-the-ridiculous. Although Allen denied its origins in autobiography, the &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fpoignant&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;poignant&quot;&gt;poignant&lt;/a&gt; love story almost certainly mirrored some aspects of the real-life relationship that had transpired between Keaton and Allen. The film also marked the emergence of the distinctive on-screen persona that many came to believe was merely an extension of the offscreen Allen: a neurotic, &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2ferudite&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;erudite&quot;&gt;erudite&lt;/a&gt;, wisecracking, moralistic, phobia-ridden pessimist who is obsessed with his mortality but finds &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fsolace&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;solace&quot;&gt;solace&lt;/a&gt; for his &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fexistential&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;existential&quot;&gt;existential&lt;/a&gt; despair in art and love and who is at base a mensch. Audiences and critics alike were charmed by &lt;em&gt;Annie Hall&lt;/em&gt;, which won &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fAcademy-Award&quot; class=&quot;md-crosslink&quot;&gt;Academy Awards&lt;/a&gt; for best picture, best actress (Keaton), best director, and best screenplay (Allen and collaborator &lt;span id=&quot;ref1182580&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fMarshall-Brickman&quot; class=&quot;md-crosslink&quot;&gt;Marshall Brickman&lt;/a&gt;). Allen, however, astounded Hollywood by choosing not to attend the &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fAcademy-Award&quot; class=&quot;md-crosslink autoxref&quot;&gt;Academy Award&lt;/a&gt; ceremony but instead to play &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fclarinet&quot; class=&quot;md-crosslink&quot;&gt;clarinet&lt;/a&gt; at Michael’s Pub in &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fplace%2fManhattan-New-York-City&quot; class=&quot;md-crosslink autoxref&quot;&gt;Manhattan&lt;/a&gt;, as he usually did on Monday nights.&lt;/p&gt;&lt;!--[P7]--&gt;&lt;span class=&quot;marker p7&quot;&gt;&lt;/span&gt;&lt;div class=&quot;assemblies&quot;&gt;&lt;figure class=&quot;md-assembly  print-false&quot; data-assembly-id=&quot;136173&quot;&gt;&lt;div class=&quot;md-assembly-wrapper&quot; data-type=&quot;image&quot;&gt;&lt;div class=&quot;image-wrapper mg&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f80%2f24380-050-DF5792A6%2fWoody-Allen-Diane-Keaton-Oscar-Annie-Hall.jpg&quot; class=&quot;media-overlay-link&quot; data-href=&quot;/media/1/16217/136173&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/s:700x500/80/24380-050-DF5792A6/Woody-Allen-Diane-Keaton-Oscar-Annie-Hall.jpg&quot; alt=&quot;Diane Keaton and Woody Allen in Annie Hall&quot; data-width=&quot;1600&quot; data-height=&quot;1260&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;figcaption&gt;&lt;strong class=&quot;md-assembly-title&quot;&gt;Diane Keaton and Woody Allen in &lt;em&gt;Annie Hall&lt;/em&gt;&lt;/strong&gt;&lt;span class=&quot;md-assembly-caption&quot;&gt;Diane Keaton and Woody Allen in &lt;em&gt;Annie Hall&lt;/em&gt; (1977).&lt;/span&gt;&lt;cite&gt;© 1977 United Artists Corporation, all rights reserved.&lt;/cite&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!--[AM7]--&gt;&lt;span class=&quot;marker AM7 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD7]--&gt;&lt;span class=&quot;marker MOD7 mod-inline&quot;&gt;&lt;/span&gt; &lt;p&gt;Allen’s next film, &lt;em&gt;&lt;span id=&quot;ref1182578&quot;&gt;&lt;/span&gt;Interiors&lt;/em&gt; (1978), was a carefully crafted homage to the weighty psychodramas of &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fIngmar-Bergman&quot; class=&quot;md-crosslink&quot;&gt;Ingmar Bergman&lt;/a&gt;. Abjuring humour, this tale of a dysfunctional family (starring &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fGeraldine-Page&quot; class=&quot;md-crosslink&quot;&gt;Geraldine Page&lt;/a&gt;, &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fMaureen-Stapleton&quot; class=&quot;md-crosslink autoxref&quot;&gt;Maureen Stapleton&lt;/a&gt;, E.G. Marshall, Mary Beth Hurt, and Keaton) received a mixed reaction from critics, some of whom saw it as decidedly pretentious. Despite the film’s poor showing at the box office, Allen received Academy Award nominations for best director and best original screenplay.&lt;/p&gt;&lt;!--[P8]--&gt;&lt;span class=&quot;marker p8&quot;&gt;&lt;/span&gt;&lt;!--[AM8]--&gt;&lt;span class=&quot;marker AM8 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD8]--&gt;&lt;span class=&quot;marker MOD8 mod-inline&quot;&gt;&lt;/span&gt; &lt;p&gt;&lt;em&gt;&lt;span id=&quot;ref1182579&quot;&gt;&lt;/span&gt;Manhattan&lt;/em&gt; (1979) restored Allen’s &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fcovenant&quot; class=&quot;md-dictionary-link md-dictionary-tt-off&quot; data-term=&quot;covenant&quot;&gt;covenant&lt;/a&gt; with his fans. Lyrically photographed (in black-and-white, by Gordon Willis), deftly written (by Allen and Brickman, whose screenplay was nominated for an Academy Award), and wonderfully scored (with music by &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fGeorge-Gershwin&quot; class=&quot;md-crosslink&quot;&gt;George Gershwin&lt;/a&gt;), it was an ode to the city that Allen loved. The plot centred on the attempts by a television writer (Allen) to find a more meaningful career and a less confused love life—he is involved with a 17-year-old &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2facting&quot; class=&quot;md-crosslink autoxref&quot;&gt;acting&lt;/a&gt; student (Mariel Hemingway) as well as with his best friend’s mistress (Keaton). More polished and less sentimental than &lt;em&gt;Annie Hall&lt;/em&gt;, while possessing the depth of &lt;em&gt;Interiors&lt;/em&gt;, &lt;em&gt;Manhattan&lt;/em&gt; has some claim to being Allen’s best film, although it did not enjoy the broad success of &lt;em&gt;Annie Hall&lt;/em&gt;.&lt;/p&gt;&lt;!--[P9]--&gt;&lt;span class=&quot;marker p9&quot;&gt;&lt;/span&gt;&lt;!--[AM9]--&gt;&lt;span class=&quot;marker AM9 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD9]--&gt;&lt;span class=&quot;marker MOD9 mod-inline&quot;&gt;&lt;/span&gt;&lt;/section&gt; &lt;!--[END-OF-CONTENT]--&gt;&lt;span class=&quot;marker end-of-content&quot;&gt;&lt;/span&gt;&lt;!--[AFTER-ARTICLE]--&gt;&lt;span class=&quot;marker after-article&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+
+    &lt;aside class=&quot;grid-xs-da-300&quot; data-page=&quot;1&quot;&gt;
+
+        &lt;div class=&quot;rr-module rr-module-1&quot;&gt;
+            &lt;DIV class=&quot;marketing-RIGHT_RAIL_MODULE marketing-content&quot; data-marketing-id=&quot;RIGHT_RAIL_MODULE&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fparents.britannica.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+     &lt;img src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://safe.britannica.com/safeimages/BFP_marketing_ads_300x90_C.jpg&quot; alt=&quot;Learn More!&quot;  class=&quot;mb-30&quot; /&gt;
+&lt;/a&gt;&lt;/DIV&gt;&lt;/div&gt;
+
+            &lt;div class=&quot;rr-module rr-module-2&quot;&gt;
+            &lt;!--[AD1]--&gt;
+
+&lt;div class=&quot;md-content-module-right&quot;&gt;
+
+    &lt;div class=&quot;bio-box fact-box&quot;&gt;
+        &lt;div class=&quot;title&quot;&gt;Woody Allen&lt;/div&gt;
+&lt;div class=&quot;subtitle&quot;&gt;Quick Facts&lt;/div&gt;
+&lt;div class=&quot;fact-box-picture text-center&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f59%2f103059-050-881079AE%2fWoody-Allen-career-Film-Society-of-Lincoln-2005.jpg&quot; data-href=&quot;/media/1/16217/107965&quot; id=&quot;/media/1/16217/107965&quot; class=&quot;image-wrapper media-overlay-link&quot; title=&quot;&quot;&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/s:300x300/59/103059-050-881079AE/Woody-Allen-career-Film-Society-of-Lincoln-2005.jpg&quot; alt=&quot;Woody Allen&quot;    /&gt;
+    
+
+&lt;/a&gt;
+    &lt;a class=&quot;text-600 font-14&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbiography%2fWoody-Allen%2fimages-videos&quot;&gt;View Media Page&lt;/a&gt;
+    &lt;/div&gt;
+&lt;div class=&quot;fact-box-details md-striped&quot;&gt;
+            &lt;dl data-label=&quot;born&quot;&gt;&lt;dt&gt;born&lt;/dt&gt;&lt;dd&gt;December 1, 1935 (age 84)&lt;br&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fplace%2fNew-York-City&quot;&gt;New York City&lt;/a&gt;&lt;span&gt;, &lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fplace%2fNew-York-state&quot;&gt;New York&lt;/a&gt;&lt;br&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;dl data-label=&quot;notable works&quot;&gt;&lt;dt class=&quot;fact-list&quot;&gt;notable works&lt;/dt&gt;&lt;dd&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fAnnie-Hall&quot;&gt;“Annie Hall”&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fTake-the-Money-and-Run&quot;&gt;“Take the Money and Run”&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fThe-Purple-Rose-of-Cairo&quot;&gt;“The Purple Rose of Cairo”&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fDont-Drink-the-Water-television-film-by-Allen&quot;&gt;“Don’t Drink the Water”&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fLove-and-Death-film-by-Allen&quot;&gt;“Love and Death”&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fInteriors&quot;&gt;“Interiors”&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fManhattan-film-by-Allen&quot;&gt;“Manhattan”&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fWhats-New-Pussycat-film-by-Donner-and-Talmadge&quot;&gt;“What’s New, Pussycat?”&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fZelig&quot;&gt;“Zelig”&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fCrimes-and-Misdemeanors&quot;&gt;“Crimes and Misdemeanors”&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;dl data-label=&quot;awards and honors&quot;&gt;&lt;dt class=&quot;fact-list&quot;&gt;awards and honors&lt;/dt&gt;&lt;dd&gt;&lt;ul&gt;&lt;li class=&quot;text-capitalize&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fCecil-B-DeMille-Award&quot;&gt;Cecil B. DeMille Award&lt;/a&gt; (2014)&lt;/li&gt; &lt;li class=&quot;text-capitalize&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fAcademy-Award&quot;&gt;Academy Award&lt;/a&gt; (2012)&lt;/li&gt; &lt;li class=&quot;text-capitalize&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fAcademy-Award&quot;&gt;Academy Award&lt;/a&gt; (1987)&lt;/li&gt; &lt;li class=&quot;text-capitalize&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fAcademy-Award&quot;&gt;Academy Award&lt;/a&gt; (1978)&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;dl data-label=&quot;related facts and data&quot;&gt;&lt;dt class=&quot;fact-list&quot;&gt;related facts and data&lt;/dt&gt;&lt;dd&gt;&lt;ul&gt; &lt;li&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ffacts%2fAlfonso-Cuaron&quot;&gt;Alfonso Cuarón - Facts &lt;/a&gt;&lt;/li&gt;  &lt;li&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ffacts%2fAlec-Guinness&quot;&gt;Alec Guinness - Facts &lt;/a&gt;&lt;/li&gt;  &lt;li&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ffacts%2fStephen-Rea&quot;&gt;Stephen Rea - Facts &lt;/a&gt;&lt;/li&gt;  &lt;li&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ffacts%2fRay-Stevenson&quot;&gt;Ray Stevenson - Facts &lt;/a&gt;&lt;/li&gt;  &lt;li&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ffacts%2fNick-Vallelonga&quot;&gt;Nick Vallelonga - Facts &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/div&gt;
+
+        &lt;div class=&quot;text-center&quot;&gt;
+                &lt;a class=&quot;text-600 font-14&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ffacts%2fWoody-Allen&quot;&gt;View Facts &amp; Data&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+            &lt;/aside&gt;
+
+&lt;/div&gt;&lt;/div&gt;
+
+
+                    &lt;div class=&quot;infinite-pagination-button grid no-gutter&quot;&gt;
+                            &lt;div class=&quot;grid-sm grid-xs-100&quot;&gt;
+                                &lt;div class=&quot;js-load-next-container center-xs my-25&quot;&gt;
+                                    &lt;button class=&quot;js-load-next md-button md-primary layout-column text-uppercase pb-0 px-100&quot;&gt;
+                                        Load Next Page
+                                        &lt;em class=&quot;material-icons md-36&quot; data-icon=&quot;keyboard_arrow_down&quot;&gt;&lt;/em&gt;
+&lt;/button&gt;
+                                    &lt;em class=&quot;material-icons js-loading-spinner ui-spin middle-xs center-xs text-blue font-36 d-none&quot; data-icon=&quot;brightness_low&quot;&gt;&lt;/em&gt;
+&lt;/div&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&quot;grid-sm-da-300&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+
+                    &lt;/div&gt;
+
+            &lt;/div&gt;
+
+            &lt;div class=&quot;md-additional-info-modal p-10&quot;&gt;
+    &lt;div class=&quot;header p-15&quot;&gt;
+        &lt;div class=&quot;font-18 lh-lg&quot;&gt;Woody Allen&lt;/div&gt;
+        &lt;div class=&quot;text-uppercase font-13&quot;&gt;Additional Information&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;body px-15 pb-25&quot;&gt;
+        &lt;div class=&quot;blue-border mt-25&quot;&gt;
+            &lt;div class=&quot;md-info-accordion&quot;&gt;
+
+&lt;h2 class=&quot;md-accordion-item-title no-ad sticky-events&quot; id=&quot;accordion-more-about&quot; data-additional-content-id=&quot;11&quot;&gt;
+&lt;a href=&quot;_httpsamepagelink_#&quot; data-url=&quot;/ajax/topic/16217/additional-content/11&quot;&gt;More About&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&quot;md-accordion-item-content content accordion-additional-content&quot;&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;md-accordion-item-title no-ad sticky-events&quot; id=&quot;accordion-quotes&quot; data-additional-content-id=&quot;9&quot;&gt;
+&lt;a href=&quot;_httpsamepagelink_#&quot; data-url=&quot;/ajax/topic/16217/additional-content/9&quot;&gt;Quotes&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&quot;md-accordion-item-content content accordion-additional-content&quot;&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;md-accordion-item-title no-ad sticky-events&quot; id=&quot;accordion-external-websites&quot; &gt;
+&lt;a href=&quot;_httpsamepagelink_#&quot; &gt;External Websites&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&quot;md-accordion-item-content content accordion-websites md-loaded&quot;&gt;
+&lt;div class=&quot;gutter-bottom&quot;&gt;
+            &lt;ul&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.woodyallen.com&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Official Site of Woody Allen&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.allmovie.com%2fartist%2fwoody-allen-p79388&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;AllMovie - Biography of Woody Allen&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.tcm.com%2ftcmdb%2fperson%2f2615%257C158123%2fWoody-Allen&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Turner Classic Movies - Biography of Woody Allen&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.allmusic.com%2fartist%2fwoody-allen-mn0000678950&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;AllMusic - Biography of Woody Allen&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;md-websites-ebk-title&quot;&gt;Britannica Websites&lt;/div&gt;
+        &lt;div class=&quot;md-websites-ebk-subtitle&quot;&gt;Articles from Britannica Encyclopedias for elementary and high school students.&lt;/div&gt;
+
+        &lt;ul class=&quot;bps-topic-web-sites&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fkids.britannica.com%2fstudents%2farticle%2fWoody-Allen%2f272814&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Woody Allen - Student Encyclopedia (Ages 11 and up)&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+
+    &lt;/div&gt;
+&lt;h2 class=&quot;md-accordion-item-title no-ad sticky-events&quot; id=&quot;accordion-article-history&quot; &gt;
+&lt;a href=&quot;_httpsamepagelink_#&quot; data-url=&quot;/ajax/topic/16217/history&quot;&gt;Article History&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&quot;md-accordion-item-content content accordion-history&quot;&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;md-accordion-item-title no-ad sticky-events&quot; id=&quot;accordion-article-contributors&quot; &gt;
+&lt;a href=&quot;_httpsamepagelink_#&quot; data-url=&quot;/ajax/topic/16217/contributors&quot;&gt;Article Contributors&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&quot;md-accordion-item-content content accordion-contributors&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/article&gt;&lt;/div&gt;
+
+&lt;button class=&quot;js-load-next-article md-button md-primary layout-column text-uppercase pb-0 px-100 my-50 mx-auto&quot;&gt;
+Load Next Article
+&lt;em class=&quot;material-icons md-36&quot; data-icon=&quot;keyboard_arrow_down&quot;&gt;&lt;/em&gt;
+&lt;/button&gt;
+
+&lt;em class=&quot;material-icons js-loading-article-spinner ui-spin middle-xs center-xs text-blue font-36 d-none my-50&quot; data-icon=&quot;brightness_low&quot;&gt;&lt;/em&gt;
+&lt;div class=&quot;infinite-end p-5 text-center bg-green text-white d-none&quot;&gt;
+&lt;em class=&quot;material-icons&quot; data-icon=&quot;check&quot;&gt;&lt;/em&gt;
+&lt;/div&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+
+&lt;/main&gt;
+
+    &lt;footer id=&quot;md-footer&quot; class=&quot;footer-wrapper hide-on-edit&quot;&gt;
+
+    &lt;div class=&quot;footer-bck&quot;&gt;
+        &lt;DIV class=&quot;marketing-FOOTER_NEWSLETTER marketing-content&quot; data-marketing-id=&quot;FOOTER_NEWSLETTER&quot;&gt;&lt;div class=&quot;md-footer-newsletter-form pt-10 mb-30 mx-15 mx-sm-120&quot;&gt;
+   &lt;div class=&quot;font-18&quot;&gt;
+      &lt;strong&gt;Inspire your inbox &amp;ndash;&lt;/strong&gt;
+      Sign up for daily fun facts about this day in history, updates, and special offers.
+   &lt;/div&gt;
+   &lt;div class=&quot;p-30&quot;&gt;
+      &lt;div class=&quot;newsletter-form-container&quot;&gt;
+
+    &lt;form class=&quot;newsletter-form&quot; method=&quot;post&quot; action=&quot;/newsletter-subscription/EB_ON_THIS_DAY&quot;&gt;
+
+        &lt;div class=&quot;form-group grid no-gutter center-xs&quot;&gt;
+            &lt;div class=&quot;grid-sm-50 grid-xs-100&quot;&gt;
+                &lt;label class=&quot;sr-only&quot; for=&quot;enter-your-email&quot;&gt;Enter your email&lt;/label&gt;
+                &lt;input id=&quot;enter-your-email&quot; type=&quot;email&quot; name=&quot;email&quot; class=&quot;form-control font-18 p-10&quot; placeholder=&quot;Enter your email&quot; pattern=&quot;[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$&quot; required&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;grid-sm-shrink grid-xs-100 mt-5 mt-sm-0 ml-sm-5&quot;&gt;
+                &lt;input type=&quot;submit&quot; class=&quot;md-button md-outline md-light&quot; style=&quot;width: 100%; height:100%;&quot; value=&quot;SUBSCRIBE&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;text-white pt-30 text-opacity&quot;&gt;
+            By signing up for this email, you are agreeing to news, offers, and information from Encyclopaedia Britannica.&lt;br&gt;
+            Click here to view our &lt;a class=&quot;text-white text-underscore&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcorporate.britannica.com%2fprivacy-policy&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Privacy Notice&lt;/a&gt;. Easy unsubscribe links are provided in every email.
+        &lt;/div&gt;
+
+        &lt;input type=&quot;hidden&quot; name=&quot;source&quot; value=&quot;Footer&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;campaign&quot; value=&quot;Mendel&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;medium&quot; value=&quot;Box&quot; /&gt;&lt;/form&gt;
+
+    &lt;div class=&quot;md-subscribed hidden text-white&quot;&gt;
+       &lt;div class=&quot;my-10&quot;&gt;Thank you for subscribing!&lt;/div&gt;
+       &lt;div&gt;Be on the lookout for your Britannica newsletter to get trusted stories delivered right to your inbox.&lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;&lt;/DIV&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+    
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+&lt;div class=&quot;md-social-toolbar-circle center-xs colored&quot;
+     data-value=&quot;connect&quot;
+     
+     
+&gt;
+    
+        &lt;div class=&quot;share-label hidden-xs&quot;&gt;Stay Connected&lt;/div&gt;
+    
+    
+        &lt;a class=&quot;ui-icon-facebook center-xs middle-xs&quot; data-provider=&quot;facebook&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.facebook.com%2fBRITANNICA&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Facebook&quot;&gt;&lt;span&gt;Facebook&lt;/span&gt;&lt;/a&gt;
+    
+    
+        &lt;a class=&quot;ui-icon-twitter center-xs middle-xs&quot; data-provider=&quot;twitter&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftwitter.com%2fbritannica&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Twitter&quot;&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/a&gt;
+    
+    
+        &lt;a class=&quot;ui-icon-youtube-play center-xs middle-xs&quot; data-provider=&quot;youtube&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.youtube.com%2fc%2fencyclopaediabritannica&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;YouTube&quot;&gt;&lt;span&gt;YouTube&lt;/span&gt;&lt;/a&gt;
+    
+    
+        &lt;a class=&quot;ui-icon-instagram center-xs middle-xs&quot; data-provider=&quot;instagram&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.instagram.com%2fbritannica&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Instagram&quot;&gt;&lt;span&gt;Instagram&lt;/span&gt;&lt;/a&gt;
+    
+    
+    
+        &lt;a class=&quot;ui-icon-pinterest center-xs middle-xs&quot; data-provider=&quot;pinterest&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.pinterest.com%2fbritannica&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Pinterest&quot;&gt;&lt;span&gt;Pinterest&lt;/span&gt;&lt;/a&gt;
+    
+    
+        &lt;a class=&quot;ui-icon center-xs middle-xs&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcloud.email.britannica.com%2fPreferenceCenter&quot; title=&quot;Newsletters&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; aria-label=&quot;Newsletters&quot;&gt;
+            &lt;em class=&quot;material-icons&quot; data-icon=&quot;drafts&quot;&gt;&lt;span&gt;Newsletters&lt;/span&gt;&lt;/em&gt;
+        &lt;/a&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;br/&gt;
+            &lt;div class=&quot;container&quot;&gt;
+            &lt;ul class=&quot;legal-links&quot;&gt;
+                &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcorporate.britannica.com&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;About Us &amp; Legal Info&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcorporate.britannica.com%2fpublishing-partner-program&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Partner Program&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcorporate.britannica.com%2fcontact&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcorporate.britannica.com%2fprivacy-policy&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Privacy Notice&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcorporate.britannica.com%2ftermsofuse.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+ 
+            &lt;div class=&quot;mt-20&quot;&gt;&amp;copy;2020 Encyclopædia Britannica, Inc.&lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;/div&gt;
+
+&lt;/footer&gt;
+
+&lt;div id=&quot;ccpa-modal&quot;&gt;
+    &lt;div class=&quot;md-modal-body&quot;&gt;
+        Your preference has been recorded
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+__$.setDebug( true );
+__AD.contentLoadInit();
+&lt;/script&gt;
+&lt;div id=&quot;loginbox-dialog&quot; class=&quot;ui-hidden&quot;&gt;
+&lt;div class=&quot;mobile-loginbox-dialog-close&quot;&gt;
+        &lt;em class=&quot;material-icons p-10&quot; data-icon=&quot;close&quot;&gt;&lt;/em&gt;
+    &lt;/div&gt;
+    &lt;div id=&quot;loginbox-dialog-iframe-container&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;noscript&gt;&lt;iframe src=&quot;//www.googletagmanager.com/ns.html?id=GTM-5W6NC8&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;&gt;&lt;/iframe&gt;&lt;/noscript&gt;
+&lt;script type=&quot;text/javascript&quot; id=&quot;_informizely_script_tag&quot;&gt;
+var IzWidget = IzWidget || {};
+(function (d)
+{ var scriptElement = d.createElement('script'); scriptElement.type = 'text/javascript'; scriptElement.async = true; scriptElement.src = &quot;https://insitez.blob.core.windows.net/site/f780f33e-a610-4ac2-af81-3eb184037547.js&quot;; var node = d.getElementById('_informizely_script_tag'); node.parentNode.insertBefore(scriptElement, node); }
+)(document);
+&lt;/script&gt;
+
+&lt;DIV class=&quot;marketing-SLIDER marketing-slider&quot; data-marketing-id=&quot;SLIDER&quot; data-duration=&quot;14&quot; data-name=&quot;SLIDER&quot;&gt;&lt;button class=&quot;close-btn material-icons p-10&quot;&gt;close&lt;/button&gt;&lt;style&gt;
+.marketing-slider .close-btn {
+  color: white;
+}
+
+.marketing-slider .preview {
+    background-color: #ff9115 ;
+    color: white;
+
+}
+
+.marketing-slider .preview .orange-circle {
+    height: 250px;
+    position: absolute;
+    width: 70px;
+    background-image: url('https://cdn.britannica.com/marketing/marketing/thistle-white.svg');
+    background-position: -85px 0px;
+    background-size: 150px;
+    background-repeat: no-repeat;
+    left: 0;
+    top: 8px;
+    opacity: 0.5;
+}
+
+.marketing-slider .offer .md-button-gradient {
+   font-size: 12px;
+   background:#F87307; 
+}
+
+&lt;/style&gt;
+
+&lt;div class=&quot;preview&quot;&gt;
+
+&lt;div class=&quot;p-15 pl-70&quot;&gt;
+   Check out Britannica's new site for parents!
+   &lt;div class=&quot;orange-circle end-xs middle-xs&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;div class=&quot;offer&quot;&gt;
+
+&lt;div&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fparents.britannica.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+   &lt;img src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://safe.britannica.com/safeimages/BFP_marketing_ads_slider.jpg&quot; alt=&quot;Subscribe Today!&quot; /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/DIV&gt;&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fresources%2fjs%2flibs%2fjquery-3.4.1.min.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fa.optmnstr.com%2fapp%2fjs%2fapi.min.js&quot; data-account=&quot;62791&quot; data-user=&quot;55795&quot; async defer&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fresources%2fjs%2flibs%2fprebid3.15.0.js&quot; async=&quot;async&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+window.pbjs = window.pbjs || {};
+    pbjs.que = pbjs.que || [];
+&lt;/script&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f%2fcontent.jwplatform.com%2flibraries%2fRVHVXRYp.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text/javascript&quot; data-type=&quot;Init Mendel Code Splitting&quot;&gt;
+              (function() {
+                $.ajax({
+                  dataType: 'script',
+                  cache: true,
+                  url: '/resources/dist/topic-page.js?v=ad-refactor.21'
+                });
+              })();
+            &lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.googletagmanager.com%2fgtag%2fjs%3fid%3dUA-6636134-11&quot; async=&quot;async&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        function gaPageLoad(pathname, documentLocation) {
+            pathname = pathname || location.pathname;
+            documentLocation = documentLocation || document.querySelector('html').getAttribute('data-ytrk-page');
+
+            if (documentLocation) {
+                documentLocation = documentLocation.replace(/ /g, '/');
+                window.dataLayer = window.dataLayer || [];
+
+                function gtag() {
+                    dataLayer.push(arguments);
+                }
+
+                gtag('js', new Date());
+
+                gtag('set', {
+                    'dimension1': 'ANONYMOUS',
+                    'dimension2': 'B',
+                });
+
+                gtag('config', 'UA-6636134-11', {
+                    'page_path': documentLocation + pathname + decodeURI(location.search),
+                    'link_attribution': true,
+                });
+            }
+        }
+
+        gaPageLoad();
+    &lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    EBStat={accountId:-1,hostnameOverride:'webstats.eb.com',domain:'www.britannica.com', json:''};
+    &lt;/script&gt;
+
+    &lt;script type=&quot;text/javascript&quot;&gt;
+            ( function() {
+                $.ajax( { dataType: 'script', cache: true, url: '//britannica.com/webstats/mendelstats.js?v=1' } )
+                 .done( function() {
+                     try {writeStat(null,EBStat);}
+                     catch(err){}
+                 } );
+            })();
+            &lt;/script&gt;
+        
+</Section>

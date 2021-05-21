@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="GENERATOR">wvWare/wvWare version 1.2.4</Metadata>
+    <Metadata name="Title">Leap Motion Controller Datasheet.indd</Metadata>
+    <Metadata name="URL">http://C:/Users/Marija's PC/Greenstone3/web/sites/localsite/collect/leapmoti/tmp/1588351032/Leap_Motion_Controller_Datasheet.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Marija's PC/Greenstone3/web/sites/localsite/collect/leapmoti/tmp/1588351032/Leap_Motion_Controller_Datasheet.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Leap_Motion_Controller_Datasheet.doc</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1588351032\Leap_Motion_Controller_Datasheet.html</Metadata>
+    <Metadata name="OrigSource">Leap_Motion_Controller_Datasheet.html</Metadata>
+    <Metadata name="Source">Leap_Motion_Controller_Datasheet.doc</Metadata>
+    <Metadata name="SourceFile">Leap_Motion_Controller_Datasheet.doc</Metadata>
+    <Metadata name="Plugin">WordPlugin</Metadata>
+    <Metadata name="FileSize">559104</Metadata>
+    <Metadata name="FilenameRoot">Leap_Motion_Controller_Datasheet</Metadata>
+    <Metadata name="FileFormat">Word</Metadata>
+    <Metadata name="srcicon">_icondoc_</Metadata>
+    <Metadata name="srclink_file">doc.doc</Metadata>
+    <Metadata name="srclinkFile">doc.doc</Metadata>
+    <Metadata name="dc.Date">20140501</Metadata>
+    <Metadata name="Identifier">HASHfef1538333fe1e0900406d</Metadata>
+    <Metadata name="lastmodified">1588349639</Metadata>
+    <Metadata name="lastmodifieddate">20200501</Metadata>
+    <Metadata name="oailastmodified">1588351033</Metadata>
+    <Metadata name="oailastmodifieddate">20200501</Metadata>
+    <Metadata name="assocfilepath">HASHfef1.dir</Metadata>
+    <Metadata name="gsdlassocfile">doc.doc:application/msword:</Metadata>
+  </Description>
+  <Content>
+
+&lt;!--Section Begins--&gt;&lt;br&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 0.00mm 0.00mm 10.02mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;img alt=&quot;0x01 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 0.00mm 21.37mm 9.03mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;Leap Motion Controller&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;&lt;sup&gt;TM&lt;/sup&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Heading 1&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 0.00mm 0.75mm 8.94mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;The world's leading hand tracking technology&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 2.01mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;The Leap Motion Controller from Ultraleap&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt; is an optical hand tracking module that captures the movement of users' hands and fi ngers so they can interact naturally with digital content. Small, fast, and accurate, the Leap Motion Controlle can be used for productivity applications with Windows com&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;puters, integrated into enterprisegrade hardware solutions or displays, or attached to virtual/augmented reality headsets for AR/VR/XR prototyping, research, and development.&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 2.45mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;The controller is capable of tracking hands within a 3D interactive zone that ext&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;ends up to 60cm (24&amp;rdquo;) or more, extending from the device in a 120×150° fi eld of view. Leap Motion`s software is able to discern 27 distinct hand elements, including bones and joints, and track them even when they are obscured by other parts of the hand. W&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;ith a 120Hz refresh rate and low-latency software, the time between motion and photon falls beneath the human perception threshold&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;sup&gt;&lt;/sup&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;. &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 7.83mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;An accessory component, the VR Developer Mount, allows for easy, reliable, and consistent attachment of the device to virt&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;ual reality headsets such as the Oculus Rift and HTC Vive. The Leap Motion App Gallery features 75+ legacy desktop applications and a demo suite for virtual reality.&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;table width=&quot;84.80%&quot; border=&quot;1&quot; cols=&quot;3&quot; rows=&quot;2&quot;&gt;
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;40.88%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;3.65%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Green&quot;&gt;&amp;bull; &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;55.47%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;justify&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: justify; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Robotics (bomb disposal, telepresence, robotic controls, AI-&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;40.88%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;The Leap Motion Controller features a 120×150° fi eld of view and an interactive tracking range of more than 2 feet (60cm).&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;3.65%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Green&quot;&gt;&amp;bull; &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;55.47%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;assisted teaching)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Global team collaboration&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;center&quot; style=&quot;margin: 0.00mm 0.00mm 0.09mm 19.29mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: center; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;Example applications&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;ul&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 0.31mm 25.36mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -6.25mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;Entertainment (location-based VR/AR &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;experiences, arcades, amusement parks)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;
+
+
+
+&lt;li value=&quot;2&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 0.31mm 25.36mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -6.25mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Healthcare (stroke rehabilitation, training, mirror, medical imaging, lazy eye treatment)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;
+
+
+
+&lt;li value=&quot;3&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 0.31mm 25.36mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -6.25mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Therapy and Education (anatomic visualizations, hands-on learning)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;
+
+
+
+&lt;li value=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 0.31mm 25.36mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -6.25mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Personnel training (fl ight simulators, complex computer sys&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;tems)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;
+
+
+
+&lt;li value=&quot;5&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 1.37mm 25.36mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -6.25mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Industrial design and engineering (automotive, assembly lines, facilities management)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;
+
+
+
+&lt;/ul&gt;&lt;p&gt;&lt;div name=&quot;Heading 1&quot; align=&quot;left&quot; style=&quot;margin: 8.23mm 0.00mm 0.03mm 8.94mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;Robust and safety compliant&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 6.02mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;The Leap Motion Controller is certifi ed compliant to safety and electrical regulatory standards. Its robustness and external certifi ca&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;tion enable commercial projects, including sterile environments.&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Heading 1&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 0.00mm 0.03mm 8.94mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;Easy to integrate and use&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 15.47mm 0.31mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;The Leap Motion Controller is designed for simple integration into customer applications and can be retro-fi tted to existing concepts or hardware. Plugins for Unity&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt; and Unreal enable developers working with two leading 3D development platforms to incorporate hand tracking into their established workfl ow. The Unity integration features:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;ul&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 0.31mm 15.28mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -6.25mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Powerful Interaction Engine enabling natural hand/object interactions&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;
+
+
+
+&lt;li value=&quot;2&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 0.31mm 15.28mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -6.25mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Example scenes with interactive scripts and menus&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;
+
+
+
+&lt;li value=&quot;3&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 10.76mm 0.31mm 15.28mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -6.25mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Optimized rigged hand models and auto-rigging pipeline for custom hand designs&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;
+
+
+
+&lt;/ul&gt;&lt;p&gt;&lt;div name=&quot;Heading 1&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 0.00mm 0.03mm 8.94mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;Specifi cations&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;table width=&quot;89.98%&quot; border=&quot;1&quot; cols=&quot;5&quot; rows=&quot;22&quot;&gt;
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Yellow&quot;&gt;HeightWidthDepthWeight&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Metric&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;19.97%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;center&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: center; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;13mm&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;19.97%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;center&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: center; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;80mm&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;19.97%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;center&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: center; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;30mm&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;15.87%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;center&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: center; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;32g&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Imperial&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;19.97%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;center&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: center; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;0.5&amp;quot;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;19.97%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;center&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: center; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;3.2&amp;quot;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;19.97%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;center&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: center; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;1.2&amp;quot;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;15.87%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;center&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: center; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;1.15oz&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Product &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;category:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Specialized sensor&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Description:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Leap Motion Controller for hand tracking&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Power supply:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;USB&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Data connection:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;USB 2.0 (packaged with USB 2/3 hybrid cable, but can be used with any certifi ed USB cables with the Hi-Speed USB 2.0 logo featured on the packaging)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Ingress protection:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Splash resistant&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Mounting methods:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;May be placed on a desktop, mounted on a VR &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;headset using the Leap Motion VR Developer Mount, or recessed into a larger hardware installation&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Interaction zone:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;60cm (24&amp;quot;) or more, extending from the device in a 120×150° fi eld of view &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;(approximately 8 cubic feet or 0.2 cubic meters of interactive &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;space)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Cameras:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Two 640x240-pixel near-infrared cameras; spaced 40 millimetres apart; with infrared-transparent window, operate in the 850 nanometre&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt; +/-25 spectral range; typically operates at 120Hz but hardware is capable of 240+; capable of image capture within 1/2000th of a second&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Camera interface:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Experimental Universal Video Class (UVC) release provides access to low-level controls such as LED b&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;rightness, gamma, exposure, gain, resolution, etc.; examples in C, Python, and Matlab, as well as OpenCV bindings&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;LEDs:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Three, spaced on either side and between the cameras, baffl  ed to prevent overlaps&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Range:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Arm's length, up to roughly 80 cm; &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;varies depending on hand perspective conditions&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Construction:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Aluminium and scratch-resistant glass&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Ambient operating temperature:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;32º to 113º F (0º to 45ºC)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Storage temperature:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;14º to 122º F (-10º to 50º C)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Relative Humidity: &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;5% to 85% &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;(non-condensing)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Operating Altitude:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;0 to 10,000 feet (0 to 3048 meters)&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Compliance:&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;CE, FCC, CAN ICES-3&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Minimum system requirements (desktop):&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Windows® 7+ or Mac® OS X 10.7 (note that OSX is no longer formally supported); AMD Phenom™ II or Intel® &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;Core™ i3/i5/i7 processor; 2 GB RAM; USB 2.0 port&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+
+
+&lt;tr&gt;&lt;td bgcolor=&quot;White&quot; width=&quot;24.23%&quot; rowspan=&quot;1&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Minimum system requirements (VR):&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+
+
+&lt;td bgcolor=&quot;White&quot; width=&quot;75.77%&quot; rowspan=&quot;1&quot; colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Windows 7 SP1 64 bit or newer; Intel® Core™ i5-4590 equivalent or greater; 8GB+ RAM; 3x USB 3.0 port; NVIDIA GTX 970 / AMD R9 290 equivalent or greater with &lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;compatible HDMI 1.3 video output&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;center&quot; style=&quot;margin: 0.00mm 16.44mm 0.09mm 19.29mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: center; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;img alt=&quot;0x08 graphic&quot; src=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;Where to buy it&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 27.03mm 20.02mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;For a list of authorized retailers, visit &lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;u&gt;www.ultraleap.com &lt;/u&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;Some applications, including those distributed for more than US$500 or designed for use with or control of industrial, commercial or medical equi&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;pment, require a separate license from Ultraleap.&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 19.36mm 7.20mm 9.03mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.461806mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;w/&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;u&gt;https://www.ultraleap.com&lt;/u&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;o/&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt; UK: +44 117 325 9002 &lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;e/&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;u&gt;info@ultraleap.com&lt;/u&gt;&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;&lt;b&gt;o/&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt; US: +1 650 600 9916&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 0.00mm 8.07mm 9.03mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;DarkGray&quot;&gt;UH-003206-TC Issue 2 LeapMotion Controller Data Sheet | Ultrahaptics&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt; Ltd., The West Wing, Glass Wharf, Bristol, BS2 0EL, United Kingdom | info@ultrahaptics.com | www.ultrahaptics.com&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Leap Motion Controller Datasheet.indd   215/12/2019   18:16&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;footnote description&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.34mm 6.94mm 11.94mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.548611mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;DarkGray&quot;&gt;&lt;sup&gt;&lt;/sup&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt; &lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;Internal benchmarking tests have determined that the Leap &lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;Motion version software is capable of sub-millisecond image processing, though this varies by environmental conditions and number of hands. The camera framerate imposes 8 milliseconds of latency (1/120 seconds). Note that game engines, GPUs, and display sy&lt;/font&gt;&lt;font color=&quot;DarkGray&quot;&gt;stems are also factors in total system latency.&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;footnote description&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;Leap Motion Controller Datasheet.indd   115/12/2019   18:16&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.65mm 0.31mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.34mm 6.94mm 11.94mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.548611mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.65mm 0.31mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.34mm 6.94mm 11.94mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.548611mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.65mm 0.31mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.65mm 0.00mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.166667mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.65mm 0.31mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.65mm 0.00mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.166667mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.65mm 0.31mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;margin: 0.00mm 9.65mm 0.31mm 9.20mm;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: -0.17mm; text-align: left; line-height: 4.531250mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;div name=&quot;Normal&quot; align=&quot;left&quot; style=&quot;  padding: 0.00mm 0.00mm 0.00mm 0.00mm; &quot;&gt; 
+
+&lt;p style=&quot;text-indent: 0.00mm; text-align: left; line-height: 4.496528mm; color: Black; background-color: White; &quot;&gt;
+&lt;font color=&quot;Black&quot;&gt;&lt;/font&gt;
+&lt;/p&gt;&lt;/div&gt;
+
+&lt;!--Section Ends--&gt;
+
+
+
+&lt;!--
+&lt;hr&gt;
+&lt;address&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwvware.sourceforge.net&quot;&gt;&lt;img
+src=&quot;_httpdocimg_/wvSmall.gif&quot; height=31 width=47
+align=left border=0 alt=&quot;wvWare&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fvalidator.w3.org%2fcheck%2freferer&quot;&gt;&lt;img
+src=&quot;_httpdocimg_/vh40.gif&quot; height=31 width=88
+align=right border=0 alt=&quot;Valid HTML 4.0!&quot;&gt;&lt;/a&gt;
+Document created with &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwvware.sourceforge.net&quot;&gt;wvWare/wvWare version 1.2.4&lt;/a&gt;&lt;br&gt;
+&lt;/address&gt;
+--&gt;
+
+
+</Content>
+</Section>
+</Archive>

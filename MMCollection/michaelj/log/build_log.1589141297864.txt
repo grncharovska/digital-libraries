@@ -1,0 +1,19 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file Jackson.jpg is being processed by ImagePlugin.
+The file M.Jackson.jpg is being processed by ImagePlugin.
+The file Michael Jackson - Beat It (Official Video).mp3 is being processed by MP3Plugin.
+The file Michael Jackson - Earth Song (Official Video).mp3 is being processed by MP3Plugin.
+The file Michael_Jackson.jpg is being processed by ImagePlugin.
+The file Smooth Criminal LIVE.mp4 is being processed by UnknownPlugin.
+************** Import Finished **************
+6 documents were considered for processing:
+    6 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

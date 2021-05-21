@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\TWljaGFlbCBKYWNrc29uIC0gQmVhdCBJdCAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">4768941</Metadata>
+    <Metadata name="Source">Michael Jackson - Beat It (Official Video).mp3</Metadata>
+    <Metadata name="SourceFile">TWljaGFlbCBKYWNrc29uIC0gQmVhdCBJdCAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="mp3">Michael Jackson - Beat It (Official Video)</Metadata>
+    <Metadata name="srcurl">TWljaGFlbCBKYWNrc29uIC0gQmVhdCBJdCAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">TWljaGFlbCBKYWNrc29uIC0gQmVhdCBJdCAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="srclinkFile">TWljaGFlbCBKYWNrc29uIC0gQmVhdCBJdCAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Michael Jackson - Beat It (Official Video)</Metadata>
+    <Metadata name="Identifier">HASH01d5deca24072e44ab2cd04c</Metadata>
+    <Metadata name="lastmodified">1589141150</Metadata>
+    <Metadata name="lastmodifieddate">20200510</Metadata>
+    <Metadata name="oailastmodified">1589141303</Metadata>
+    <Metadata name="oailastmodifieddate">20200510</Metadata>
+    <Metadata name="assocfilepath">HASH01d5.dir</Metadata>
+    <Metadata name="gsdlassocfile">TWljaGFlbCBKYWNrc29uIC0gQmVhdCBJdCAoT2ZmaWNpYWwgVmlkZW8p.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

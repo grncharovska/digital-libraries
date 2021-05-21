@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/Marija's PC/Greenstone3/web/sites/localsite/collect/leapmoti/tmp/1588351030/161273LeapMotion.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Marija's PC/Greenstone3/web/sites/localsite/collect/leapmoti/tmp/1588351030/161273LeapMotion.html</Metadata>
+    <Metadata name="Title">161273LeapMotion</Metadata>
+    <Metadata name="gsdlsourcefilename">import\161273LeapMotion.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1588351030\161273LeapMotion.html</Metadata>
+    <Metadata name="OrigSource">161273LeapMotion.html</Metadata>
+    <Metadata name="Source">161273LeapMotion.pdf</Metadata>
+    <Metadata name="SourceFile">161273LeapMotion.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">629131</Metadata>
+    <Metadata name="FilenameRoot">161273LeapMotion</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Date">20190104</Metadata>
+    <Metadata name="Identifier">HASH789800128aa5eba5a92748</Metadata>
+    <Metadata name="lastmodified">1588349639</Metadata>
+    <Metadata name="lastmodifieddate">20200501</Metadata>
+    <Metadata name="oailastmodified">1588351031</Metadata>
+    <Metadata name="oailastmodifieddate">20200501</Metadata>
+    <Metadata name="assocfilepath">HASH7898.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page2.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page3.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page4.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page5.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+&lt;div id=&quot;page1&quot;&gt;
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:bold; font-style:italic; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:bold; font-style:italic; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f46 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:379px; top:65px;&quot;&gt;&lt;span class=&quot;p1f19&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Предмет&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:364px; top:79px;&quot;&gt;&lt;span class=&quot;p1f19&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Изработила&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:391px; top:93px;&quot;&gt;&lt;span class=&quot;p1f19&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Индекс&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:460px; top:65px;&quot;&gt;&lt;span class=&quot;p1f13&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Виртуелна реалност&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:461px; top:79px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Марија Грнчаровска&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:492px; top:93px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;161272&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:219px; top:146px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Работа на уредот &lt;/span&gt;&lt;span class=&quot;p1f10&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Leap Motion&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:172px;&quot;&gt;&lt;span class=&quot;p1f13&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,111,192,1);&quot;&gt;Апстракт&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:194px;&quot;&gt;&lt;span class=&quot;p1f17&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;Leap Motion &lt;/span&gt;&lt;span class=&quot;p1f19&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;контролерот е хардверски периферен уред кој ги следи движењето на рацете и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:209px;&quot;&gt;&lt;span class=&quot;p1f19&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;прстите, овозможувајќи внесување на команди без користење на стандардните &lt;/span&gt;&lt;span class=&quot;p1f17&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;IO &lt;/span&gt;&lt;span class=&quot;p1f19&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;уреди&lt;/span&gt;&lt;span class=&quot;p1f17&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;-&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:223px;&quot;&gt;&lt;span class=&quot;p1f19&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;глувче и тастатура. Природните движења на рацете се определуваат со помош на &lt;/span&gt;&lt;span class=&quot;p1f17&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;LED &lt;/span&gt;&lt;span class=&quot;p1f19&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;диоди&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:237px;&quot;&gt;&lt;span class=&quot;p1f19&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;и на тој начин се овозможува сосема нов вид на интеракција помеѓу човекот и компјутерот.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:279px;&quot;&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;1. &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;Вовед&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:297px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Влезните уреди преставуваат едни од најконзервативните компјутерски периферни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:312px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;уреди, кои со тек на времето биле подложни на минимални промени во обликот на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:326px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;изгледот и стекнувањето на нови функции, но принципите на работа со нив остануваат исти.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:341px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Тастатурата ги задоволува потребите за вн&lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;сување на податоци за еднодимензионален&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:356px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;систем, но со создавањето на &lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;GUI &lt;/span&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;се наметнува потреба за креирање на нов уред – глувче&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:370px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;со кој ќе се олесни контролата. Овие начини на внес на податоци имаат дикретни и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:385px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;ограничени толкувања&lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;кои зависат од околината во кои се случуваат, времето, позицијата&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:400px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на уредот &lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;пр. кликањето зависи од позицијата на глувчето&lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;; &lt;/span&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;двојниот клик освен од&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:414px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;позиција е и временски одреден&lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;). &lt;/span&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Спротивно на ова, со напредокот на визуелизацијата на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:429px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;податоци се наметнува потреба за уред кој овозможува подобра контрола во 3&lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;D &lt;/span&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;светот,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:444px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;каде што работата со глувче би била неприродна. Како резултат на тоа настанале различни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:458px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;уреди за препознавање на движење (кои што праќаат низа од позициите во просторот и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:473px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;нивната промена со тек на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:488px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;времето), меѓу кои и &lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Leap&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:502px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Motion.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:517px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Од друга перспектива,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:532px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;користење на рацете во еден&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:546px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;интерфејс е поддржан од&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:561px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;фактот дека тие се користат&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:575px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;дури и за невербална&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:590px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;комуникација, како знак или&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:605px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;јазик на телото. Различните&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:620px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;гестови може да се&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:634px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;интерпретираат како серија&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:649px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на наредби и да се&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:663px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;искористат&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:200px; top:663px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;како&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:678px;&quot;&gt;&lt;span class=&quot;p1f50&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;компјутерски инпут.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;page2&quot;&gt;
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 2</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f10 { font-family:sans-serif; font-weight:bold; font-style:italic; }
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f17 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f25 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+.p2f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f27 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+.p2f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f145 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f146 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f147 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f148 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f149 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f150 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f151 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f152 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f153 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f154 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f155 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f156 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f157 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f158 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f159 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f160 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f161 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f162 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f163 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f164 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f165 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f166 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f167 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f168 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f169 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f170 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f171 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f172 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f173 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f174 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f175 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f176 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f177 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f178 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f179 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f180 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f181 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f182 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f183 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f184 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f185 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f186 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f187 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f188 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f189 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f190 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:59px; top:31px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(255,255,255,1);&quot;&gt;2 &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Виртуелна реалност&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:96px; top:45px;&quot;&gt;&lt;span class=&quot;p2f10&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;Leap Motion&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:74px;&quot;&gt;&lt;span class=&quot;p2f15&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;2. &lt;/span&gt;&lt;span class=&quot;p2f19&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;Опис на уредот&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:170px; top:118px;&quot;&gt;&lt;span class=&quot;p2f25&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Тип&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:97px; top:133px;&quot;&gt;&lt;span class=&quot;p2f25&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Карактеристики&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:131px; top:163px;&quot;&gt;&lt;span class=&quot;p2f25&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Интерфејс&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:174px; top:178px;&quot;&gt;&lt;span class=&quot;p2f25&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;ОС&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:120px; top:193px;&quot;&gt;&lt;span class=&quot;p2f25&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Размери, &lt;/span&gt;&lt;span class=&quot;p2f27&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;mm&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:149px; top:208px;&quot;&gt;&lt;span class=&quot;p2f25&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Маса, &lt;/span&gt;&lt;span class=&quot;p2f27&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;g&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:109px; top:223px;&quot;&gt;&lt;span class=&quot;p2f25&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Гаранција&lt;/span&gt;&lt;span class=&quot;p2f27&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;p2f25&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;мес.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:150px; top:239px;&quot;&gt;&lt;span class=&quot;p2f25&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Цена, &lt;/span&gt;&lt;span class=&quot;p2f27&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;$&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:269px; top:101px;&quot;&gt;&lt;span class=&quot;p2f10&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Leap motion&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:199px; top:118px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Уред за следење на движење&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:199px; top:133px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Распознавање на прстите од двете раце&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:199px; top:148px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Можност за нивно користење за управување со компјутер&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:199px; top:163px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;USB 2.0&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:199px; top:178px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Windows 7/8, Mac OS X 10.7, Linux&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:199px; top:193px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;13 x 13 x 76&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:199px; top:208px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;45&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:199px; top:223px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;12&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:199px; top:239px;&quot;&gt;&lt;span class=&quot;p2f81&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(37,40,42,1);&quot;&gt;≈ &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;170&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:270px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Контролерот сам по себе е приближно 8&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;cm &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;единица која се приклучува преку &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;USB&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:285px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на компјутер и е чувствителна на површината околу. Се користи во комбинација со&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:301px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;апликации развиени специјално за контролерот. Заклучно со септември 2013 година, беа&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:317px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;достапни 95 апликации преку веб&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;страницата за скок во движење, наречена Airspace. Овие&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:333px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;апликации се состојат од игри, научни и образовни апликации и апликации за уметност и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:349px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;музика.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:388px;&quot;&gt;&lt;span class=&quot;p2f15&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;2.1. &lt;/span&gt;&lt;span class=&quot;p2f19&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Принцип на работа&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:412px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Уредот се состои од две камери и три &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;IR LED&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:427px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;диоди кои следат инфрацрвена светлина со&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:441px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;бранова должина од 850&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;nm&lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, што е надвор од&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:456px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;спектарот на видлива светлина&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:471px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Благодарение на своите широкоаголни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:485px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;леќи, има голем простор за интеракција од &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(37,40,42,1);&quot;&gt;≈ 240cm&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:500px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(37,40,42,1);&quot;&gt;околу него &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;иако претходно, опсегот на гледање на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:514px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;контролерот бил ограничен на &lt;/span&gt;&lt;span class=&quot;p2f81&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(37,40,42,1);&quot;&gt;≈&lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;60 см околу&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:529px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;уредот. Со Орион бета софтверот, ова е проширено&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:544px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;до 250м. Овој опсег е ограничен со пропагација на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:559px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;LED &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;светлината низ вселената, бидејќи станува&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:573px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;многу потешко да се заклучи позицијата на вашата&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:588px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;рака во 3D над одредено растојание.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:602px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Интензитетот на светлината пак е ограничен од&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:617px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;максималната струја што може да се повлече&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:632px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;преку USB&lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;поврзувањето. &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;USB-&lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;контролерот на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:646px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;уредот ги чита податоците, ги запишува во&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:661px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;сопствената локална меморија и ги изведува&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:676px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;потребните прилагодувања на резолуцијата. Овие&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:690px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;податоци потоа се емитуваат преку USB на Leap&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:67px; top:705px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Motion.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;page3&quot;&gt;
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 3</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p3f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f10 { font-family:sans-serif; font-weight:bold; font-style:italic; }
+.p3f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f22 { font-family:sans-serif; font-weight:bold; font-style:italic; }
+.p3f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f145 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f146 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f147 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f148 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f149 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f150 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f151 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f152 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f153 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f154 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f155 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f156 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f157 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f158 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f159 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f160 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f161 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f162 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f163 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f164 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f165 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f166 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f167 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f168 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f169 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f170 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f171 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f172 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f173 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f174 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f175 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f176 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f177 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f178 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f179 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f180 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f181 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f182 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f183 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f184 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f185 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f186 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f187 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f188 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f189 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f190 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f191 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f192 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f193 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f194 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f195 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f196 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f197 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f198 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f199 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f200 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f201 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f202 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f203 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f204 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f205 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f206 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f207 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f208 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f209 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f210 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f211 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f212 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f213 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f214 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f215 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f216 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f217 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f218 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f219 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f220 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f221 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f222 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f223 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f224 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f225 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f226 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f227 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f228 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f229 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f230 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f231 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f232 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f233 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f234 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f235 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f236 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f237 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f238 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f239 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background3&quot; src=&quot;_httpdocimg_/page3.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:59px; top:31px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(255,255,255,1);&quot;&gt;3 &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Виртуелна реалност&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:96px; top:45px;&quot;&gt;&lt;span class=&quot;p3f10&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;Leap Motion&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:74px;&quot;&gt;&lt;span class=&quot;p3f15&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;2.2 Хардверски компоненти&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:97px; top:112px;&quot;&gt;&lt;span class=&quot;p3f22&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Компоненти&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:91px; top:127px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(44,61,80,1);&quot;&gt;CYUSB3014-BZXI&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:100px; top:142px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(44,61,80,1);&quot;&gt;MX25L3206E&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:109px; top:157px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(44,61,80,1);&quot;&gt;FDD6637&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:101px; top:172px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(44,61,80,1);&quot;&gt;SFH4714AS*&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:244px; top:112px;&quot;&gt;&lt;span class=&quot;p3f22&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Опис&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:189px; top:127px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(44,61,80,1);&quot;&gt;Hi-Speed USB 3.1 Controller&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:219px; top:142px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(44,61,80,1);&quot;&gt;32 MB Memory&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:210px; top:157px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(44,61,80,1);&quot;&gt;P-Channel MOSFET&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:222px; top:172px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(44,61,80,1);&quot;&gt;IR-LED Emitter&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:232px; top:187px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(44,61,80,1);&quot;&gt;IR Camera&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:359px; top:112px;&quot;&gt;&lt;span class=&quot;p3f22&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Цена&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:363px; top:127px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;$32&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:366px; top:142px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;$1&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:366px; top:157px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;$1&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:422px; top:112px;&quot;&gt;&lt;span class=&quot;p3f22&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Повеќе информации&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:437px; top:127px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;спецификација&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:437px; top:142px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;спецификација&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:437px; top:157px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;спецификација&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:437px; top:172px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;спецификација&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:217px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Компонентите внатре се поставени на две плочи, од кои на една се наоѓаат&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:232px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;камерите, а на другата има две одделни кола.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:246px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Уредот содржи &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Hi- Speed USB Controller &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;со 32битен &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;ARM926EJ (Risc) CPU &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;кој работи&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:261px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;200MHz, &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;и е способен за пренос на податоци од 5&lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Gbps. &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Со останатите уреди комуницира&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:275px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;преку општ програмабилен интерфејс од &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;100MHz &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;и има поддршка за &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;SPI, UART, I&lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:7px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;C &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;и &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;I&lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:7px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;S .&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:290px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Внатре исто така има &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;32 MB CMOS &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;серисна флеш меморија која е &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;SPI &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;компатабилна.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:305px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Овој чип најверојатно функционира како ажурирање на фирмверот за Leap Motion&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:320px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Controller &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;(означен со розево)&lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:334px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Поголем дел од уредот работи на 3.3V. На едно од колата, дополнително има&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:349px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;намотка и кондензатор наменети да се создаде конвертор за зголемување на напон. Овој&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:364px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;35V P-Channel MOSFET &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;се користи за да ја регулира моќноста што се доставува до&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:378px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;инфрацрвените емитери (означен со жолто)&lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:316px; top:401px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;камери&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:433px; top:393px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Емитувачите на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:397px; top:408px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;инфрацрвени зраци ја&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:397px; top:422px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;осветлуваат непосредната&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:397px; top:437px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;близина на контролерот и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:397px; top:451px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;обезбедуваат светлина што&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:398px; top:466px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;се одразува од вашите раце&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:398px; top:481px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;назад во модулите на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:398px; top:495px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;камерата (означен со&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:398px; top:510px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;виолетово)&lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:459px; top:538px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;USB port&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:451px; top:571px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Hi Speed USB Controller&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:447px; top:605px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Зголемувач на напон&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:476px; top:650px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;IR LED&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:429px; top:683px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Меморија&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;page4&quot;&gt;
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 4</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p4f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f10 { font-family:sans-serif; font-weight:bold; font-style:italic; }
+.p4f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f17 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p4f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f108 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p4f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f145 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f146 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f147 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f148 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f149 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f150 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f151 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f152 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f153 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f154 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f155 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f156 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f157 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f158 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f159 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f160 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f161 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f162 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f163 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f164 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background4&quot; src=&quot;_httpdocimg_/page4.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:59px; top:31px;&quot;&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(255,255,255,1);&quot;&gt;4 &lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Виртуелна реалност&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:96px; top:45px;&quot;&gt;&lt;span class=&quot;p4f10&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;Leap Motion&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:74px;&quot;&gt;&lt;span class=&quot;p4f15&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;3. &lt;/span&gt;&lt;span class=&quot;p4f19&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;Примена&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:108px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Можностите кои се отвараат со користењето на движењето за интеракција со&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:123px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;компјутерот се неограничени и применливи во многу области како уметноста, едукацијата,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:137px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;истражувањата, игрите, музиката, медицината итн.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:152px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Едукативните игри се на работ на голема пресвртница. Со ваквата технологија се&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:167px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;овозможува гледање на геолошки дијаграм во &lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;3D &lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;наместо од учебник, како и набљудувања&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:181px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на тектонските пореметувања, вулкани, дури и преуредување на континентите во потрага&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:195px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;по нови фосилни остатоци&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:7px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;[1]&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;. &lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Без разлика дали се работи за изучување на анатомија &lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:7px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;[2] &lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:211px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;истражување на вселената или набљудување на колизија на објекти кои не постојат,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:225px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;визуелизацијата го олеснува процесот на учење и начинот на осознавање на светот.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:240px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Уредот е подеднакво значаен и во микропроцесорските системи и роботиката.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:255px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Интегриран со &lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Arduino &lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;или &lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Raspberry Pi &lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;може да се користи за креирање на роботска рака&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:268px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;и едноставно управување со неа&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:7px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;[3]&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:378px; top:299px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Можностите за забава се&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:360px; top:313px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;секако не&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;o&lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;граничени. Само со&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:360px; top:328px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;движење на рацете можете да&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:360px; top:342px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;станете сликар&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:7px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;[4]&lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, да играте пинг&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:360px; top:356px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;понг&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:7px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;[5]&lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, да компонирате или да&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:360px; top:371px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;“допрете” музика&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:7px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;[6]&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:378px; top:394px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Исто така постојат огромен број&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:360px; top:409px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:406px; top:409px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;игри.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:467px; top:409px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Една&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:527px; top:409px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;од&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:360px; top:424px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;најраспространетите&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:534px; top:424px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;е&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:360px; top:438px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;преживување на островот РПС&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:360px; top:453px;&quot;&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;(Rock Paper Scissors)&lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, каде што&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:468px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;соочени со неконтролираниот напад на непријатели на тропски остров, мора да ги поразите&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:481px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;со сигнализирање на нивната слабост (користејќи некој од сигналите за &lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;RPS)&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:7px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;[7]&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:534px;&quot;&gt;&lt;span class=&quot;p4f19&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;Резиме&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:557px;&quot;&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Leap Motion &lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;е напредно инженерско дело кое ги користи дводимензионалните слики за да&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:570px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;создаде модел на 3D просторот кој што се наоѓа во неговата непосредна близина. Колото е&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:584px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;дизајнирано да ги осветлува рацете, да ја запамти нивната позиција и да ги испрати сликите на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:597px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;компјутерот за обработка.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:618px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Од аспект на математиката што се користи за да се одреди движењето на прстите&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;во пријавата&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:631px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;за патент&lt;/span&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:6px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;[8] &lt;/span&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;дизајнерите се обиделе да објаснат зошто одбрале да ги испратат сликите од камерите&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:645px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на компјутерот за обработка. Имено, за да се одреди позицијата на сите десет прсти во просторот&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:659px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;се прават сложени пресметки за кои се потребни голема количина на меморија и брз процесор. Со&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:672px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;нивното поставување на плочка, во внатрешноста на контролерот, ќе се зголеми неговата големина,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:686px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;материјалните трошоци и потрошувачката на енергија, кои се три аспекти кои треба да се земат во&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:699px;&quot;&gt;&lt;span class=&quot;p4f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;предвид при дизајнирање на кој било уред, особено на погоден за носење.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;page5&quot;&gt;
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 5</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p5f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f10 { font-family:sans-serif; font-weight:bold; font-style:italic; }
+.p5f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f16 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p5f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f18 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p5f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f24 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+.p5f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f54 { font-family:monospace; font-weight:bold; font-style:normal; }
+.p5f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f61 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p5f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f145 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f146 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f147 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f148 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f149 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f150 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f151 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f152 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f153 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f154 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f155 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f156 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f157 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f158 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f159 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f160 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f161 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f162 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f163 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f164 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f165 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f166 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f167 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f168 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f169 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f170 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f171 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f172 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f173 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f174 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f175 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f176 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f177 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f178 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f179 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f180 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f181 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f182 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f183 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f184 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f185 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f186 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f187 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f188 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f189 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f190 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f191 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f192 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f193 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f194 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f195 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f196 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f197 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f198 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f199 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f200 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f201 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f202 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f203 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f204 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f205 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f206 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f207 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f208 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f209 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f210 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f211 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f212 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f213 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f214 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f215 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f216 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f217 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f218 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background5&quot; src=&quot;_httpdocimg_/page5.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:59px; top:31px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(255,255,255,1);&quot;&gt;5 &lt;/span&gt;&lt;span class=&quot;p5f7&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Виртуелна реалност&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:96px; top:45px;&quot;&gt;&lt;span class=&quot;p5f10&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(68,83,106,1);&quot;&gt;Leap Motion&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:97px;&quot;&gt;&lt;span class=&quot;p5f16&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Референци&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:144px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;1. &lt;/span&gt;&lt;span class=&quot;p5f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Tectonic shift education change forever&lt;/span&gt;&lt;span class=&quot;p5f24&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;http://blog.leapmotion.com/tectonic-shift-education-&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:159px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;change-forever/ &lt;/span&gt;&lt;span class=&quot;p5f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;Преземено 2019&lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;-03-23&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:196px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2. &lt;/span&gt;&lt;span class=&quot;p5f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Cat Explorer&amp;amp; VR Human Anatomy &lt;/span&gt;&lt;span class=&quot;p5f56&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;https://www.youtube.com/watch?v=9KCA44GZRQg &lt;/span&gt;&lt;span class=&quot;p5f56&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;amp;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:211px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;https://www.youtube.com/watch?v=UBLAbI2TZNc &lt;/span&gt;&lt;span class=&quot;p5f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;Преземено 2019&lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;-03-23&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:248px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;3. &lt;/span&gt;&lt;span class=&quot;p5f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Robotic Hand controlled by Gesture with Arduino and Leap Motion &amp;amp; 7Bot Desktop Robot&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:263px;&quot;&gt;&lt;span class=&quot;p5f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Arm &lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;https://www.instructables.com/id/Robotic-Hand-controlled-by-Gesture-with-Arduino-Le/,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:74px; top:277px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;https://www.youtube.com/watch?v=VGpHEU82JuM &lt;/span&gt;&lt;span class=&quot;p5f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;Преземено 2019&lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;-03-25&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:323px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;4. &lt;/span&gt;&lt;span class=&quot;p5f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Leap Motion Paint &lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;https://www.youtube.com/watch?v=UqNq0T0Le9c &lt;/span&gt;&lt;span class=&quot;p5f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;Преземено 2019&lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;-03-25&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:360px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p5f18&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;. &lt;/span&gt;&lt;span class=&quot;p5f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Leap Motion Table Tennis in Augmented Reality&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:375px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;https://www.youtube.com/watch?v=ziY5UVNKnas &lt;/span&gt;&lt;span class=&quot;p5f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;Преземено 2019&lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;-03-2&lt;/span&gt;&lt;span class=&quot;p5f56&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;5&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:403px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;6. &lt;/span&gt;&lt;span class=&quot;p5f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Creating Live Music with Leap Motion &amp;amp; Lyra VR&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:74px; top:417px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;https://www.youtube.com/watch?v=N8uFiJZpkgY,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:431px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;https://www.youtube.com/watch?time_continue=34&amp;amp;v=wUGMUWDJjn0 &lt;/span&gt;&lt;span class=&quot;p5f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;Преземено 2019&lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;-03-28&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:475px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;7. &lt;/span&gt;&lt;span class=&quot;p5f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(33,33,33,1);&quot;&gt;Defeat Your Enemies with Rock-Paper-Scissors in RPS Island, &lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;http://blog.leapmotion.com/defeat-&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:490px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;enemies-rock-paper-scissors-rps-island/ &lt;/span&gt;&lt;span class=&quot;p5f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;Преземено 2019&lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;-03-28&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:526px;&quot;&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p5f22&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;. &lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(4,98,193,1);&quot;&gt;https://patents.justia.com/patent/10229339 &lt;/span&gt;&lt;span class=&quot;p5f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;Преземено 2019&lt;/span&gt;&lt;span class=&quot;p5f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(88,88,88,1);&quot;&gt;-03-28&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

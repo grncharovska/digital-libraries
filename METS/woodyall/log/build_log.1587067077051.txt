@@ -1,0 +1,19 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file My Woody Allen Problem - The New York Times.html is being processed by HTMLPlugin.
+The file The Official Website of Woody Allen.html is being processed by HTMLPlugin.
+The file Woody Allen - Wikipedia.html is being processed by HTMLPlugin.
+The file Woody Allen Biography - life, family, name, story, death, school, mother, old, information, born, college.html is being processed by HTMLPlugin.
+The file Woody Allen _ Biography, Movies, & Facts _ Britannica.html is being processed by HTMLPlugin.
+The file Woody Allen memoir published in US after protest stops first attempt _ Woody Allen _ The Guardian.html is being processed by HTMLPlugin.
+************** Import Finished **************
+6 documents were considered for processing:
+    6 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************
